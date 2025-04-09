@@ -1,0 +1,474 @@
+[
+    {
+        "label": "datetime",
+        "importPath": "datetime",
+        "description": "datetime",
+        "isExtraImport": true,
+        "detail": "datetime",
+        "documentation": {}
+    },
+    {
+        "label": "timedelta",
+        "importPath": "datetime",
+        "description": "datetime",
+        "isExtraImport": true,
+        "detail": "datetime",
+        "documentation": {}
+    },
+    {
+        "label": "datetime",
+        "importPath": "datetime",
+        "description": "datetime",
+        "isExtraImport": true,
+        "detail": "datetime",
+        "documentation": {}
+    },
+    {
+        "label": "timedelta",
+        "importPath": "datetime",
+        "description": "datetime",
+        "isExtraImport": true,
+        "detail": "datetime",
+        "documentation": {}
+    },
+    {
+        "label": "datetime",
+        "importPath": "datetime",
+        "description": "datetime",
+        "isExtraImport": true,
+        "detail": "datetime",
+        "documentation": {}
+    },
+    {
+        "label": "timedelta",
+        "importPath": "datetime",
+        "description": "datetime",
+        "isExtraImport": true,
+        "detail": "datetime",
+        "documentation": {}
+    },
+    {
+        "label": "datetime",
+        "importPath": "datetime",
+        "description": "datetime",
+        "isExtraImport": true,
+        "detail": "datetime",
+        "documentation": {}
+    },
+    {
+        "label": "datetime",
+        "importPath": "datetime",
+        "description": "datetime",
+        "isExtraImport": true,
+        "detail": "datetime",
+        "documentation": {}
+    },
+    {
+        "label": "datetime",
+        "importPath": "datetime",
+        "description": "datetime",
+        "isExtraImport": true,
+        "detail": "datetime",
+        "documentation": {}
+    },
+    {
+        "label": "timedelta",
+        "importPath": "datetime",
+        "description": "datetime",
+        "isExtraImport": true,
+        "detail": "datetime",
+        "documentation": {}
+    },
+    {
+        "label": "datetime",
+        "importPath": "datetime",
+        "description": "datetime",
+        "isExtraImport": true,
+        "detail": "datetime",
+        "documentation": {}
+    },
+    {
+        "label": "NotionClient",
+        "importPath": "clients.notion_client",
+        "description": "clients.notion_client",
+        "isExtraImport": true,
+        "detail": "clients.notion_client",
+        "documentation": {}
+    },
+    {
+        "label": "NotionClient",
+        "importPath": "clients.notion_client",
+        "description": "clients.notion_client",
+        "isExtraImport": true,
+        "detail": "clients.notion_client",
+        "documentation": {}
+    },
+    {
+        "label": "GeminiClient",
+        "importPath": "clients.gemini_client",
+        "description": "clients.gemini_client",
+        "isExtraImport": true,
+        "detail": "clients.gemini_client",
+        "documentation": {}
+    },
+    {
+        "label": "GeminiClient",
+        "importPath": "clients.gemini_client",
+        "description": "clients.gemini_client",
+        "isExtraImport": true,
+        "detail": "clients.gemini_client",
+        "documentation": {}
+    },
+    {
+        "label": "GeminiClient",
+        "importPath": "clients.gemini_client",
+        "description": "clients.gemini_client",
+        "isExtraImport": true,
+        "detail": "clients.gemini_client",
+        "documentation": {}
+    },
+    {
+        "label": "parse_date_string",
+        "importPath": "utils.utils",
+        "description": "utils.utils",
+        "isExtraImport": true,
+        "detail": "utils.utils",
+        "documentation": {}
+    },
+    {
+        "label": "parse_natural_language_date",
+        "importPath": "utils.utils",
+        "description": "utils.utils",
+        "isExtraImport": true,
+        "detail": "utils.utils",
+        "documentation": {}
+    },
+    {
+        "label": "get_env_variable",
+        "importPath": "utils.utils",
+        "description": "utils.utils",
+        "isExtraImport": true,
+        "detail": "utils.utils",
+        "documentation": {}
+    },
+    {
+        "label": "parse_natural_language_date",
+        "importPath": "utils.utils",
+        "description": "utils.utils",
+        "isExtraImport": true,
+        "detail": "utils.utils",
+        "documentation": {}
+    },
+    {
+        "label": "get_env_variable",
+        "importPath": "utils.utils",
+        "description": "utils.utils",
+        "isExtraImport": true,
+        "detail": "utils.utils",
+        "documentation": {}
+    },
+    {
+        "label": "format_date_for_notion",
+        "importPath": "utils.utils",
+        "description": "utils.utils",
+        "isExtraImport": true,
+        "detail": "utils.utils",
+        "documentation": {}
+    },
+    {
+        "label": "extract_notion_page_id",
+        "importPath": "utils.utils",
+        "description": "utils.utils",
+        "isExtraImport": true,
+        "detail": "utils.utils",
+        "documentation": {}
+    },
+    {
+        "label": "utils",
+        "importPath": "utils",
+        "description": "utils",
+        "isExtraImport": true,
+        "detail": "utils",
+        "documentation": {}
+    },
+    {
+        "label": "parse_date_string",
+        "importPath": "utils.date_parser",
+        "description": "utils.date_parser",
+        "isExtraImport": true,
+        "detail": "utils.date_parser",
+        "documentation": {}
+    },
+    {
+        "label": "parse_natural_language_date",
+        "importPath": "utils.date_parser",
+        "description": "utils.date_parser",
+        "isExtraImport": true,
+        "detail": "utils.date_parser",
+        "documentation": {}
+    },
+    {
+        "label": "os",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "os",
+        "description": "os",
+        "detail": "os",
+        "documentation": {}
+    },
+    {
+        "label": "google.generativeai",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "google.generativeai",
+        "description": "google.generativeai",
+        "detail": "google.generativeai",
+        "documentation": {}
+    },
+    {
+        "label": "re",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "re",
+        "description": "re",
+        "detail": "re",
+        "documentation": {}
+    },
+    {
+        "label": "logging",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "logging",
+        "description": "logging",
+        "detail": "logging",
+        "documentation": {}
+    },
+    {
+        "label": "json",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "json",
+        "description": "json",
+        "detail": "json",
+        "documentation": {}
+    },
+    {
+        "label": "requests",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "requests",
+        "description": "requests",
+        "detail": "requests",
+        "documentation": {}
+    },
+    {
+        "label": "CalendarAgent",
+        "importPath": "agents.calendar_agent",
+        "description": "agents.calendar_agent",
+        "isExtraImport": true,
+        "detail": "agents.calendar_agent",
+        "documentation": {}
+    },
+    {
+        "label": "TodoAgent",
+        "importPath": "agents.todo_agent",
+        "description": "agents.todo_agent",
+        "isExtraImport": true,
+        "detail": "agents.todo_agent",
+        "documentation": {}
+    },
+    {
+        "label": "MemoryManager",
+        "importPath": "memory.memory_manager",
+        "description": "memory.memory_manager",
+        "isExtraImport": true,
+        "detail": "memory.memory_manager",
+        "documentation": {}
+    },
+    {
+        "label": "hashlib",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "hashlib",
+        "description": "hashlib",
+        "detail": "hashlib",
+        "documentation": {}
+    },
+    {
+        "label": "dateparser",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "dateparser",
+        "description": "dateparser",
+        "detail": "dateparser",
+        "documentation": {}
+    },
+    {
+        "label": "load_dotenv",
+        "importPath": "dotenv",
+        "description": "dotenv",
+        "isExtraImport": true,
+        "detail": "dotenv",
+        "documentation": {}
+    },
+    {
+        "label": "load_dotenv",
+        "importPath": "dotenv",
+        "description": "dotenv",
+        "isExtraImport": true,
+        "detail": "dotenv",
+        "documentation": {}
+    },
+    {
+        "label": "Orchestrator",
+        "importPath": "core.orchestrator",
+        "description": "core.orchestrator",
+        "isExtraImport": true,
+        "detail": "core.orchestrator",
+        "documentation": {}
+    },
+    {
+        "label": "CalendarAgent",
+        "kind": 6,
+        "importPath": "agents.calendar_agent",
+        "description": "agents.calendar_agent",
+        "peekOfCode": "class CalendarAgent:\n    \"\"\"Agent for managing calendar events in Notion with AI capabilities.\"\"\"\n    def __init__(self, memory_manager=None):\n        \"\"\"Initialize the calendar agent with Notion and Gemini clients.\"\"\"\n        self.notion_client = NotionClient()\n        self.gemini_client = GeminiClient(memory_manager=memory_manager)\n        self.memory_manager = memory_manager\n    def process_request(self, user_input):\n        \"\"\"Process a natural language request from the user.\"\"\"\n        # Get current events for context",
+        "detail": "agents.calendar_agent",
+        "documentation": {}
+    },
+    {
+        "label": "TodoAgent",
+        "kind": 6,
+        "importPath": "agents.todo_agent",
+        "description": "agents.todo_agent",
+        "peekOfCode": "class TodoAgent:\n    \"\"\"Agent for managing todo items in Notion with AI capabilities.\"\"\"\n    def __init__(self, memory_manager=None):\n        \"\"\"Initialize the todo agent with Notion and Gemini clients.\"\"\"\n        self.notion_client = NotionClient()\n        self.gemini_client = GeminiClient(memory_manager=memory_manager)\n        self.memory_manager = memory_manager\n    def process_request(self, user_input):\n        \"\"\"Process a natural language request from the user.\"\"\"\n        # Get current todos for context",
+        "detail": "agents.todo_agent",
+        "documentation": {}
+    },
+    {
+        "label": "GeminiClient",
+        "kind": 6,
+        "importPath": "clients.gemini_client",
+        "description": "clients.gemini_client",
+        "peekOfCode": "class GeminiClient:\n    \"\"\"Client for interacting with the Google Gemini API.\"\"\"\n    def __init__(self, memory_manager=None):\n        \"\"\"Initialize the Gemini client with API key from environment variables.\"\"\"\n        self.api_key = get_env_variable(\"GEMINI_API_KEY\")\n        genai.configure(api_key=self.api_key)\n        # Initialize the model\n        self.model = genai.GenerativeModel('gemini-1.5-flash')\n        # Add memory manager\n        self.memory_manager = memory_manager",
+        "detail": "clients.gemini_client",
+        "documentation": {}
+    },
+    {
+        "label": "logger",
+        "kind": 5,
+        "importPath": "clients.gemini_client",
+        "description": "clients.gemini_client",
+        "peekOfCode": "logger = logging.getLogger(__name__)\nclass GeminiClient:\n    \"\"\"Client for interacting with the Google Gemini API.\"\"\"\n    def __init__(self, memory_manager=None):\n        \"\"\"Initialize the Gemini client with API key from environment variables.\"\"\"\n        self.api_key = get_env_variable(\"GEMINI_API_KEY\")\n        genai.configure(api_key=self.api_key)\n        # Initialize the model\n        self.model = genai.GenerativeModel('gemini-1.5-flash')\n        # Add memory manager",
+        "detail": "clients.gemini_client",
+        "documentation": {}
+    },
+    {
+        "label": "NotionClient",
+        "kind": 6,
+        "importPath": "clients.notion_client",
+        "description": "clients.notion_client",
+        "peekOfCode": "class NotionClient:\n    \"\"\"Client for interacting with the Notion API.\"\"\"\n    def __init__(self):\n        \"\"\"Initialize the Notion client with API key and endpoint from environment variables.\"\"\"\n        self.api_key = get_env_variable(\"NOTION_API_KEY\")\n        self.endpoint = get_env_variable(\"NOTION_ENDPOINT\")\n        self.page_id = extract_notion_page_id(get_env_variable(\"NOTION_PAGE_ID\"))\n        self.headers = {\n            \"Authorization\": f\"Bearer {self.api_key}\",\n            \"Content-Type\": \"application/json\",",
+        "detail": "clients.notion_client",
+        "documentation": {}
+    },
+    {
+        "label": "Orchestrator",
+        "kind": 6,
+        "importPath": "core.orchestrator",
+        "description": "core.orchestrator",
+        "peekOfCode": "class Orchestrator:\n    \"\"\"Selects the appropriate agent based on user input.\"\"\"\n    def __init__(self):\n        \"\"\"Initialize the agent selector.\"\"\"\n        # Initialize memory managers\n        self.system_memory = MemoryManager(\"system\")\n        self.calendar_memory = MemoryManager(\"calendar\")\n        self.todo_memory = MemoryManager(\"todo\")\n        # Initialize Gemini client with system memory\n        self.gemini_client = GeminiClient(memory_manager=self.system_memory)",
+        "detail": "core.orchestrator",
+        "documentation": {}
+    },
+    {
+        "label": "logger",
+        "kind": 5,
+        "importPath": "core.orchestrator",
+        "description": "core.orchestrator",
+        "peekOfCode": "logger = logging.getLogger(__name__)\nclass Orchestrator:\n    \"\"\"Selects the appropriate agent based on user input.\"\"\"\n    def __init__(self):\n        \"\"\"Initialize the agent selector.\"\"\"\n        # Initialize memory managers\n        self.system_memory = MemoryManager(\"system\")\n        self.calendar_memory = MemoryManager(\"calendar\")\n        self.todo_memory = MemoryManager(\"todo\")\n        # Initialize Gemini client with system memory",
+        "detail": "core.orchestrator",
+        "documentation": {}
+    },
+    {
+        "label": "MemoryManager",
+        "kind": 6,
+        "importPath": "memory.memory_manager",
+        "description": "memory.memory_manager",
+        "peekOfCode": "class MemoryManager:\n    \"\"\"Manages memory for agents, storing interactions and patterns.\"\"\"\n    def __init__(self, memory_type=\"system\"):\n        \"\"\"Initialize the memory manager.\n        Args:\n            memory_type (str): Type of memory to manage (system, calendar, todo)\n        \"\"\"\n        # Ensure memory files are stored in the memory directory\n        memory_dir = os.path.join(os.path.dirname(os.path.dirname(os.path.abspath(__file__))), \"memory\")\n        # Create memory directory if it doesn't exist",
+        "detail": "memory.memory_manager",
+        "documentation": {}
+    },
+    {
+        "label": "parse_date_string",
+        "kind": 2,
+        "importPath": "utils.date_parser",
+        "description": "utils.date_parser",
+        "peekOfCode": "def parse_date_string(date_string):\n    \"\"\"\n    Parse a date string in various formats and return a datetime object.\n    Args:\n        date_string (str): A string representing a date\n    Returns:\n        datetime or str: A datetime object representing the parsed date or ISO format string\n    \"\"\"\n    if not date_string:\n        return None",
+        "detail": "utils.date_parser",
+        "documentation": {}
+    },
+    {
+        "label": "parse_natural_language_date",
+        "kind": 2,
+        "importPath": "utils.date_parser",
+        "description": "utils.date_parser",
+        "peekOfCode": "def parse_natural_language_date(text):\n    \"\"\"\n    Extract and parse dates from natural language text.\n    Args:\n        text (str): Natural language text containing date references\n    Returns:\n        str: ISO formatted date string for Notion API\n    \"\"\"\n    if not text:\n        return None",
+        "detail": "utils.date_parser",
+        "documentation": {}
+    },
+    {
+        "label": "get_env_variable",
+        "kind": 2,
+        "importPath": "utils.utils",
+        "description": "utils.utils",
+        "peekOfCode": "def get_env_variable(var_name):\n    \"\"\"Get an environment variable or raise an exception if it doesn't exist.\"\"\"\n    value = os.getenv(var_name)\n    if value is None:\n        raise ValueError(f\"Environment variable {var_name} is not set\")\n    return value\ndef format_date_for_notion(date_obj):\n    \"\"\"Format a date object for Notion API.\"\"\"\n    from datetime import datetime\n    # If it's already a string, try to parse it",
+        "detail": "utils.utils",
+        "documentation": {}
+    },
+    {
+        "label": "format_date_for_notion",
+        "kind": 2,
+        "importPath": "utils.utils",
+        "description": "utils.utils",
+        "peekOfCode": "def format_date_for_notion(date_obj):\n    \"\"\"Format a date object for Notion API.\"\"\"\n    from datetime import datetime\n    # If it's already a string, try to parse it\n    if isinstance(date_obj, str):\n        try:\n            # Try to parse the string as a datetime\n            date_obj = datetime.fromisoformat(date_obj.replace('Z', '+00:00'))\n        except ValueError:\n            # If it fails, try to parse as date only",
+        "detail": "utils.utils",
+        "documentation": {}
+    },
+    {
+        "label": "extract_notion_page_id",
+        "kind": 2,
+        "importPath": "utils.utils",
+        "description": "utils.utils",
+        "peekOfCode": "def extract_notion_page_id(page_url):\n    \"\"\"Extract the Notion page ID from a URL or ID string.\"\"\"\n    # If it's already just an ID (32 chars with dashes), return it\n    if re.match(r'^[a-f0-9]{8}-[a-f0-9]{4}-[a-f0-9]{4}-[a-f0-9]{4}-[a-f0-9]{12}$', page_url):\n        return page_url\n    # Extract from URL format like https://www.notion.so/My-Store-1c814f08ff408033afa8dd9238d9f7d4\n    match = re.search(r'([a-f0-9]{32}|[a-f0-9]{8}-[a-f0-9]{4}-[a-f0-9]{4}-[a-f0-9]{4}-[a-f0-9]{12})$', page_url)\n    if match:\n        page_id = match.group(1)\n        # If it's a 32-char ID without dashes, format it with dashes",
+        "detail": "utils.utils",
+        "documentation": {}
+    },
+    {
+        "label": "parse_date_string",
+        "kind": 2,
+        "importPath": "utils.utils",
+        "description": "utils.utils",
+        "peekOfCode": "def parse_date_string(date_str):\n    \"\"\"Parse a date string into a datetime object.\"\"\"\n    # Try to parse the string as a datetime\n    try:\n        return datetime.fromisoformat(date_str.replace('Z', '+00:00'))\n    except ValueError:\n        # If it fails, try to parse as date only\n        try:\n            return datetime.strptime(date_str, \"%Y-%m-%d\")\n        except ValueError:",
+        "detail": "utils.utils",
+        "documentation": {}
+    },
+    {
+        "label": "parse_natural_language_date",
+        "kind": 2,
+        "importPath": "utils.utils",
+        "description": "utils.utils",
+        "peekOfCode": "def parse_natural_language_date(date_string):\n    \"\"\"\n    Parse a natural language date string into a datetime object.\n    Examples: \"tomorrow\", \"next week\", \"in 3 days\", etc.\n    \"\"\"\n    from datetime import datetime, timedelta\n    import re\n    # Current date as reference point\n    now = datetime.now()\n    if not date_string or not isinstance(date_string, str):",
+        "detail": "utils.utils",
+        "documentation": {}
+    },
+    {
+        "label": "main",
+        "kind": 2,
+        "importPath": "main",
+        "description": "main",
+        "peekOfCode": "def main():\n    # Load environment variables from .env file\n    load_dotenv()\n    # Initialize the agent selector\n    orchestrator = Orchestrator()\n    print(\"Welcome to Notion Agent!\")\n    print(\"You can manage your calendar events or todo items using natural language.\")\n    print(\"Type 'exit' to quit, 'help' for commands, or 'insights' to see usage patterns.\")\n    while True:\n        # Get user input",
+        "detail": "main",
+        "documentation": {}
+    }
+]

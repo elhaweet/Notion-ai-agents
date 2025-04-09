@@ -1,0 +1,564 @@
+{
+  "interactions": [
+    {
+      "id": "f972920a4d099003ce670424f4ec7682",
+      "timestamp": "2025-04-07T12:49:36.731250",
+      "user_input": "I want to set my goals for tommorw it is about going to the gym",
+      "agent_response": {
+        "type": "suggest_todo_actions",
+        "action": "create"
+      },
+      "metadata": {}
+    },
+    {
+      "id": "0223b21e6a28cd520199fcbd5a8c9baf",
+      "timestamp": "2025-04-07T12:49:38.952078",
+      "user_input": "I want to set my goals for tommorw it is about going to the gym",
+      "agent_response": {
+        "type": "process_natural_language",
+        "result": {
+          "task_name": "Set gym goals for tomorrow",
+          "due_date": "tomorrow",
+          "status": "Not Started",
+          "priority": null,
+          "notes": "Going to the gym"
+        }
+      },
+      "metadata": {}
+    },
+    {
+      "id": "74d86f1df45e716ccc863e38f94d620a",
+      "timestamp": "2025-04-07T13:19:36.378836",
+      "user_input": "I want to set new task  about about searching on  remote job tommorow",
+      "agent_response": {
+        "type": "suggest_todo_actions",
+        "action": "create"
+      },
+      "metadata": {}
+    },
+    {
+      "id": "6ae4d707a641caa318272a7a4a95c5ae",
+      "timestamp": "2025-04-07T13:19:37.250653",
+      "user_input": "I want to set new task  about about searching on  remote job tommorow",
+      "agent_response": {
+        "type": "process_natural_language",
+        "result": {
+          "task_name": "Search for remote jobs",
+          "due_date": "tomorrow",
+          "status": "Not Started",
+          "priority": "Medium"
+        }
+      },
+      "metadata": {}
+    },
+    {
+      "id": "824bbb3233a6752e0381f9d4ac3b91bd",
+      "timestamp": "2025-04-07T15:06:16.105647",
+      "user_input": "add new to do task about gym tomorw",
+      "agent_response": {
+        "type": "suggest_todo_actions",
+        "action": "create"
+      },
+      "metadata": {}
+    },
+    {
+      "id": "b7c7f4be8144cc414e3585c8435db6ed",
+      "timestamp": "2025-04-07T15:06:16.847688",
+      "user_input": "add new to do task about gym tomorw",
+      "agent_response": {
+        "type": "process_natural_language",
+        "result": {
+          "task_name": "Go to gym",
+          "due_date": "tomorrow",
+          "status": "Not Started",
+          "priority": "Medium"
+        }
+      },
+      "metadata": {}
+    },
+    {
+      "id": "6afc7a531e99c32256f25d9512a50bfb",
+      "timestamp": "2025-04-07T15:07:52.688341",
+      "user_input": "add to do task for going to the gym tommorw",
+      "agent_response": {
+        "type": "suggest_todo_actions",
+        "action": "update"
+      },
+      "metadata": {}
+    },
+    {
+      "id": "667a5d6004ee5c123a80c5658d40c25b",
+      "timestamp": "2025-04-07T15:07:58.197473",
+      "user_input": "add to do task for going to the gym tommorw",
+      "agent_response": {
+        "type": "process_natural_language",
+        "result": {
+          "task_name": "Go to the gym",
+          "due_date": "tomorrow",
+          "status": "Not Started"
+        }
+      },
+      "metadata": {}
+    },
+    {
+      "id": "a20430b7cbec7e1b8f02670157a4e736",
+      "timestamp": "2025-04-07T15:08:24.705778",
+      "user_input": "add new to do about goint to uni after two day",
+      "agent_response": {
+        "type": "suggest_todo_actions",
+        "action": "create"
+      },
+      "metadata": {}
+    },
+    {
+      "id": "6c33bdb46c782b3e7dbd3947c007265b",
+      "timestamp": "2025-04-07T15:08:25.415367",
+      "user_input": "add new to do about goint to uni after two day",
+      "agent_response": {
+        "type": "process_natural_language",
+        "result": {
+          "task_name": "Go to uni",
+          "due_date": {
+            "start_date": null,
+            "end_date": null,
+            "is_all_day": true
+          },
+          "status": "Not Started",
+          "priority": "Medium"
+        }
+      },
+      "metadata": {}
+    },
+    {
+      "id": "bf09bb3cb5c0f7080c99f07896422f7d",
+      "timestamp": "2025-04-07T15:08:51.296611",
+      "user_input": "add new to do about goint to uni after two days",
+      "agent_response": {
+        "type": "suggest_todo_actions",
+        "action": "create"
+      },
+      "metadata": {}
+    },
+    {
+      "id": "c54d8ca03da35aa04f0929a308d36ef8",
+      "timestamp": "2025-04-07T15:08:51.990895",
+      "user_input": "add new to do about goint to uni after two days",
+      "agent_response": {
+        "type": "process_natural_language",
+        "result": {
+          "task_name": "Go to uni",
+          "due_date": "in two days",
+          "status": "Not Started",
+          "priority": "Medium"
+        }
+      },
+      "metadata": {}
+    },
+    {
+      "id": "89354eae19633d28db0ce47115f2a2d0",
+      "timestamp": "2025-04-07T15:43:34.548407",
+      "user_input": "make it low priority",
+      "agent_response": {
+        "type": "suggest_todo_actions",
+        "action": "update"
+      },
+      "metadata": {}
+    },
+    {
+      "id": "9ba3d75957eb57ce99923864cc4fd429",
+      "timestamp": "2025-04-07T15:43:40.940416",
+      "user_input": "make it low priority",
+      "agent_response": {
+        "type": "process_natural_language",
+        "result": {
+          "priority": "Low"
+        }
+      },
+      "metadata": {}
+    },
+    {
+      "id": "b9140b37abd7eb89569bac3b5faccb08",
+      "timestamp": "2025-04-07T19:51:03.959068",
+      "user_input": "after two days I have some task as the following : going to the gym and Uni ",
+      "agent_response": {
+        "type": "suggest_todo_actions",
+        "action": "create"
+      },
+      "metadata": {}
+    },
+    {
+      "id": "a99b1a5cd56bd561552547ab002db1e4",
+      "timestamp": "2025-04-07T19:51:05.021132",
+      "user_input": "after two days I have some task as the following : going to the gym and Uni ",
+      "agent_response": {
+        "type": "process_natural_language",
+        "result": {
+          "task_name": "Gym and Uni",
+          "due_date": "in two days",
+          "status": "Not Started"
+        }
+      },
+      "metadata": {}
+    }
+  ],
+  "patterns": {
+    "want": {
+      "frequency": 4,
+      "last_seen": "2025-04-07T12:49:36.731250",
+      "examples": [
+        {
+          "input": "I want to set my goals for tommorw it is about going to the gym",
+          "response_status": "unknown",
+          "timestamp": "2025-04-07T12:49:36.731250"
+        },
+        {
+          "input": "I want to set my goals for tommorw it is about going to the gym",
+          "response_status": "unknown",
+          "timestamp": "2025-04-07T12:49:38.952078"
+        },
+        {
+          "input": "I want to set new task  about about searching on  remote job tommorow",
+          "response_status": "unknown",
+          "timestamp": "2025-04-07T13:19:36.378836"
+        },
+        {
+          "input": "I want to set new task  about about searching on  remote job tommorow",
+          "response_status": "unknown",
+          "timestamp": "2025-04-07T13:19:37.250653"
+        }
+      ]
+    },
+    "goals": {
+      "frequency": 2,
+      "last_seen": "2025-04-07T12:49:36.731250",
+      "examples": [
+        {
+          "input": "I want to set my goals for tommorw it is about going to the gym",
+          "response_status": "unknown",
+          "timestamp": "2025-04-07T12:49:36.731250"
+        },
+        {
+          "input": "I want to set my goals for tommorw it is about going to the gym",
+          "response_status": "unknown",
+          "timestamp": "2025-04-07T12:49:38.952078"
+        }
+      ]
+    },
+    "tommorw": {
+      "frequency": 4,
+      "last_seen": "2025-04-07T12:49:36.731250",
+      "examples": [
+        {
+          "input": "I want to set my goals for tommorw it is about going to the gym",
+          "response_status": "unknown",
+          "timestamp": "2025-04-07T12:49:36.731250"
+        },
+        {
+          "input": "I want to set my goals for tommorw it is about going to the gym",
+          "response_status": "unknown",
+          "timestamp": "2025-04-07T12:49:38.952078"
+        },
+        {
+          "input": "add to do task for going to the gym tommorw",
+          "response_status": "unknown",
+          "timestamp": "2025-04-07T15:07:52.688341"
+        },
+        {
+          "input": "add to do task for going to the gym tommorw",
+          "response_status": "unknown",
+          "timestamp": "2025-04-07T15:07:58.197473"
+        }
+      ]
+    },
+    "going": {
+      "frequency": 6,
+      "last_seen": "2025-04-07T12:49:36.731250",
+      "examples": [
+        {
+          "input": "I want to set my goals for tommorw it is about going to the gym",
+          "response_status": "unknown",
+          "timestamp": "2025-04-07T12:49:36.731250"
+        },
+        {
+          "input": "I want to set my goals for tommorw it is about going to the gym",
+          "response_status": "unknown",
+          "timestamp": "2025-04-07T12:49:38.952078"
+        },
+        {
+          "input": "add to do task for going to the gym tommorw",
+          "response_status": "unknown",
+          "timestamp": "2025-04-07T15:07:52.688341"
+        },
+        {
+          "input": "add to do task for going to the gym tommorw",
+          "response_status": "unknown",
+          "timestamp": "2025-04-07T15:07:58.197473"
+        },
+        {
+          "input": "after two days I have some task as the following : going to the gym and Uni ",
+          "response_status": "unknown",
+          "timestamp": "2025-04-07T19:51:03.959068"
+        }
+      ]
+    },
+    "task": {
+      "frequency": 8,
+      "last_seen": "2025-04-07T13:19:36.378836",
+      "examples": [
+        {
+          "input": "I want to set new task  about about searching on  remote job tommorow",
+          "response_status": "unknown",
+          "timestamp": "2025-04-07T13:19:36.378836"
+        },
+        {
+          "input": "I want to set new task  about about searching on  remote job tommorow",
+          "response_status": "unknown",
+          "timestamp": "2025-04-07T13:19:37.250653"
+        },
+        {
+          "input": "add new to do task about gym tomorw",
+          "response_status": "unknown",
+          "timestamp": "2025-04-07T15:06:16.105647"
+        },
+        {
+          "input": "add new to do task about gym tomorw",
+          "response_status": "unknown",
+          "timestamp": "2025-04-07T15:06:16.847688"
+        },
+        {
+          "input": "add to do task for going to the gym tommorw",
+          "response_status": "unknown",
+          "timestamp": "2025-04-07T15:07:52.688341"
+        }
+      ]
+    },
+    "searching": {
+      "frequency": 2,
+      "last_seen": "2025-04-07T13:19:36.378836",
+      "examples": [
+        {
+          "input": "I want to set new task  about about searching on  remote job tommorow",
+          "response_status": "unknown",
+          "timestamp": "2025-04-07T13:19:36.378836"
+        },
+        {
+          "input": "I want to set new task  about about searching on  remote job tommorow",
+          "response_status": "unknown",
+          "timestamp": "2025-04-07T13:19:37.250653"
+        }
+      ]
+    },
+    "remote": {
+      "frequency": 2,
+      "last_seen": "2025-04-07T13:19:36.378836",
+      "examples": [
+        {
+          "input": "I want to set new task  about about searching on  remote job tommorow",
+          "response_status": "unknown",
+          "timestamp": "2025-04-07T13:19:36.378836"
+        },
+        {
+          "input": "I want to set new task  about about searching on  remote job tommorow",
+          "response_status": "unknown",
+          "timestamp": "2025-04-07T13:19:37.250653"
+        }
+      ]
+    },
+    "tommorow": {
+      "frequency": 2,
+      "last_seen": "2025-04-07T13:19:36.378836",
+      "examples": [
+        {
+          "input": "I want to set new task  about about searching on  remote job tommorow",
+          "response_status": "unknown",
+          "timestamp": "2025-04-07T13:19:36.378836"
+        },
+        {
+          "input": "I want to set new task  about about searching on  remote job tommorow",
+          "response_status": "unknown",
+          "timestamp": "2025-04-07T13:19:37.250653"
+        }
+      ]
+    },
+    "tomorw": {
+      "frequency": 2,
+      "last_seen": "2025-04-07T15:06:16.105647",
+      "examples": [
+        {
+          "input": "add new to do task about gym tomorw",
+          "response_status": "unknown",
+          "timestamp": "2025-04-07T15:06:16.105647"
+        },
+        {
+          "input": "add new to do task about gym tomorw",
+          "response_status": "unknown",
+          "timestamp": "2025-04-07T15:06:16.847688"
+        }
+      ]
+    },
+    "goint": {
+      "frequency": 4,
+      "last_seen": "2025-04-07T15:08:24.706775",
+      "examples": [
+        {
+          "input": "add new to do about goint to uni after two day",
+          "response_status": "unknown",
+          "timestamp": "2025-04-07T15:08:24.706775"
+        },
+        {
+          "input": "add new to do about goint to uni after two day",
+          "response_status": "unknown",
+          "timestamp": "2025-04-07T15:08:25.415367"
+        },
+        {
+          "input": "add new to do about goint to uni after two days",
+          "response_status": "unknown",
+          "timestamp": "2025-04-07T15:08:51.297604"
+        },
+        {
+          "input": "add new to do about goint to uni after two days",
+          "response_status": "unknown",
+          "timestamp": "2025-04-07T15:08:51.990895"
+        }
+      ]
+    },
+    "after": {
+      "frequency": 6,
+      "last_seen": "2025-04-07T15:08:24.706775",
+      "examples": [
+        {
+          "input": "add new to do about goint to uni after two day",
+          "response_status": "unknown",
+          "timestamp": "2025-04-07T15:08:24.706775"
+        },
+        {
+          "input": "add new to do about goint to uni after two day",
+          "response_status": "unknown",
+          "timestamp": "2025-04-07T15:08:25.415367"
+        },
+        {
+          "input": "add new to do about goint to uni after two days",
+          "response_status": "unknown",
+          "timestamp": "2025-04-07T15:08:51.297604"
+        },
+        {
+          "input": "add new to do about goint to uni after two days",
+          "response_status": "unknown",
+          "timestamp": "2025-04-07T15:08:51.990895"
+        },
+        {
+          "input": "after two days I have some task as the following : going to the gym and Uni ",
+          "response_status": "unknown",
+          "timestamp": "2025-04-07T19:51:03.959068"
+        }
+      ]
+    },
+    "days": {
+      "frequency": 4,
+      "last_seen": "2025-04-07T15:08:51.297604",
+      "examples": [
+        {
+          "input": "add new to do about goint to uni after two days",
+          "response_status": "unknown",
+          "timestamp": "2025-04-07T15:08:51.297604"
+        },
+        {
+          "input": "add new to do about goint to uni after two days",
+          "response_status": "unknown",
+          "timestamp": "2025-04-07T15:08:51.990895"
+        },
+        {
+          "input": "after two days I have some task as the following : going to the gym and Uni ",
+          "response_status": "unknown",
+          "timestamp": "2025-04-07T19:51:03.959068"
+        },
+        {
+          "input": "after two days I have some task as the following : going to the gym and Uni ",
+          "response_status": "unknown",
+          "timestamp": "2025-04-07T19:51:05.021132"
+        }
+      ]
+    },
+    "make": {
+      "frequency": 2,
+      "last_seen": "2025-04-07T15:43:34.548407",
+      "examples": [
+        {
+          "input": "make it low priority",
+          "response_status": "unknown",
+          "timestamp": "2025-04-07T15:43:34.548407"
+        },
+        {
+          "input": "make it low priority",
+          "response_status": "unknown",
+          "timestamp": "2025-04-07T15:43:40.940416"
+        }
+      ]
+    },
+    "priority": {
+      "frequency": 2,
+      "last_seen": "2025-04-07T15:43:34.548407",
+      "examples": [
+        {
+          "input": "make it low priority",
+          "response_status": "unknown",
+          "timestamp": "2025-04-07T15:43:34.548407"
+        },
+        {
+          "input": "make it low priority",
+          "response_status": "unknown",
+          "timestamp": "2025-04-07T15:43:40.940416"
+        }
+      ]
+    },
+    "have": {
+      "frequency": 2,
+      "last_seen": "2025-04-07T19:51:03.959068",
+      "examples": [
+        {
+          "input": "after two days I have some task as the following : going to the gym and Uni ",
+          "response_status": "unknown",
+          "timestamp": "2025-04-07T19:51:03.959068"
+        },
+        {
+          "input": "after two days I have some task as the following : going to the gym and Uni ",
+          "response_status": "unknown",
+          "timestamp": "2025-04-07T19:51:05.021132"
+        }
+      ]
+    },
+    "some": {
+      "frequency": 2,
+      "last_seen": "2025-04-07T19:51:03.959068",
+      "examples": [
+        {
+          "input": "after two days I have some task as the following : going to the gym and Uni ",
+          "response_status": "unknown",
+          "timestamp": "2025-04-07T19:51:03.959068"
+        },
+        {
+          "input": "after two days I have some task as the following : going to the gym and Uni ",
+          "response_status": "unknown",
+          "timestamp": "2025-04-07T19:51:05.021132"
+        }
+      ]
+    },
+    "following": {
+      "frequency": 2,
+      "last_seen": "2025-04-07T19:51:03.959068",
+      "examples": [
+        {
+          "input": "after two days I have some task as the following : going to the gym and Uni ",
+          "response_status": "unknown",
+          "timestamp": "2025-04-07T19:51:03.959068"
+        },
+        {
+          "input": "after two days I have some task as the following : going to the gym and Uni ",
+          "response_status": "unknown",
+          "timestamp": "2025-04-07T19:51:05.021132"
+        }
+      ]
+    }
+  },
+  "preferences": {}
+}

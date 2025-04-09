@@ -1,0 +1,981 @@
+{
+  "interactions": [
+    {
+      "id": "eba8108548b356ffad3be0061b3d1a7a",
+      "timestamp": "2025-04-07T14:24:54.103788",
+      "user_input": "I will have new event after three day about AI in tech world and it's something important",
+      "agent_response": {
+        "type": "suggest_calendar_actions",
+        "action": "create"
+      },
+      "metadata": {}
+    },
+    {
+      "id": "ce22eb91a6d03952596e93cd1ceae148",
+      "timestamp": "2025-04-07T14:24:54.862346",
+      "user_input": "I will have new event after three day about AI in tech world and it's something important",
+      "agent_response": {
+        "type": "process_natural_language",
+        "result": {
+          "event_name": "AI in Tech World",
+          "description": "Important event about AI in the tech world",
+          "start_date": "in three days"
+        }
+      },
+      "metadata": {}
+    },
+    {
+      "id": "15750ff94a39a83e273e03d044a40666",
+      "timestamp": "2025-04-07T14:25:17.396084",
+      "user_input": "I will have new event after three day about AI in tech world and it's something important",
+      "agent_response": {
+        "type": "suggest_calendar_actions",
+        "action": "create"
+      },
+      "metadata": {}
+    },
+    {
+      "id": "8e30332b85133af5ab88152aa3a2e720",
+      "timestamp": "2025-04-07T14:25:18.216771",
+      "user_input": "I will have new event after three day about AI in tech world and it's something important",
+      "agent_response": {
+        "type": "process_natural_language",
+        "result": {
+          "event_name": "AI in Tech World Event",
+          "start_date": "in 3 days"
+        }
+      },
+      "metadata": {}
+    },
+    {
+      "id": "a694faa52eac71855578129eab24e9c7",
+      "timestamp": "2025-04-07T15:03:47.850117",
+      "user_input": "I will have new event after two  day about AI in tech world and it's something important ",
+      "agent_response": {
+        "type": "suggest_calendar_actions",
+        "action": "create"
+      },
+      "metadata": {}
+    },
+    {
+      "id": "d078419c65a6e22a604aea47e5b0772e",
+      "timestamp": "2025-04-07T15:03:48.521694",
+      "user_input": "I will have new event after two  day about AI in tech world and it's something important ",
+      "agent_response": {
+        "type": "process_natural_language",
+        "result": {
+          "event_name": "AI in Tech World Event",
+          "start_date": "in two days"
+        }
+      },
+      "metadata": {}
+    },
+    {
+      "id": "4189d90472a3b4bd504f7d119c140ce5",
+      "timestamp": "2025-04-07T15:03:58.404908",
+      "user_input": "I will have new event after two  day about AI in tech world and it's something important ",
+      "agent_response": {
+        "type": "suggest_calendar_actions",
+        "action": "create"
+      },
+      "metadata": {}
+    },
+    {
+      "id": "02e2098f6adc62c1b337d053dcbfb767",
+      "timestamp": "2025-04-07T15:03:59.065116",
+      "user_input": "I will have new event after two  day about AI in tech world and it's something important ",
+      "agent_response": {
+        "type": "process_natural_language",
+        "result": {
+          "event_name": "AI in Tech World Event",
+          "start_date": "in two days"
+        }
+      },
+      "metadata": {}
+    },
+    {
+      "id": "5ecd99ae711d0d587203521d117238e0",
+      "timestamp": "2025-04-07T15:04:17.404024",
+      "user_input": "I will have new event after two  day about AI in tech world and it's something important ",
+      "agent_response": {
+        "type": "suggest_calendar_actions",
+        "action": "create"
+      },
+      "metadata": {}
+    },
+    {
+      "id": "1015b47801c696b4ee11b3d776ec5deb",
+      "timestamp": "2025-04-07T15:04:18.045457",
+      "user_input": "I will have new event after two  day about AI in tech world and it's something important ",
+      "agent_response": {
+        "type": "process_natural_language",
+        "result": {
+          "event_name": "AI in Tech World event",
+          "start_date": "in two days"
+        }
+      },
+      "metadata": {}
+    },
+    {
+      "id": "f9c86887520f12f390fb75f901026767",
+      "timestamp": "2025-04-07T15:05:05.790979",
+      "user_input": "I will have new event after two  day about AI in tech world and it's something important ",
+      "agent_response": {
+        "type": "suggest_calendar_actions",
+        "action": "create"
+      },
+      "metadata": {}
+    },
+    {
+      "id": "804dd3477cf67da98eb536ac5a9a28ac",
+      "timestamp": "2025-04-07T15:05:06.467654",
+      "user_input": "I will have new event after two  day about AI in tech world and it's something important ",
+      "agent_response": {
+        "type": "process_natural_language",
+        "result": {
+          "event_name": "AI in Tech World Event",
+          "start_date": "in two days"
+        }
+      },
+      "metadata": {}
+    },
+    {
+      "id": "9bab7482e099f60b08623f4e8d5d41f8",
+      "timestamp": "2025-04-07T15:05:41.377204",
+      "user_input": "I will have new event after two  day about AI in tech world",
+      "agent_response": {
+        "type": "suggest_calendar_actions",
+        "action": "create"
+      },
+      "metadata": {}
+    },
+    {
+      "id": "8690fa3d72dcd7a4bfcd9be85acefb20",
+      "timestamp": "2025-04-07T15:05:42.018953",
+      "user_input": "I will have new event after two  day about AI in tech world",
+      "agent_response": {
+        "type": "process_natural_language",
+        "result": {
+          "event_name": "AI in Tech World event",
+          "start_date": "in two days"
+        }
+      },
+      "metadata": {}
+    },
+    {
+      "id": "32ebdba75a700936167e27c406b9846e",
+      "timestamp": "2025-04-07T15:06:45.823426",
+      "user_input": "I will have new event after two  day about AI in tech world and it's something important ",
+      "agent_response": {
+        "type": "suggest_calendar_actions",
+        "action": "create"
+      },
+      "metadata": {}
+    },
+    {
+      "id": "2dd56f3fb1c6310bc92191fcfc582d7a",
+      "timestamp": "2025-04-07T15:06:46.437160",
+      "user_input": "I will have new event after two  day about AI in tech world and it's something important ",
+      "agent_response": {
+        "type": "process_natural_language",
+        "result": {
+          "event_name": "AI in Tech World",
+          "start_date": "in two days"
+        }
+      },
+      "metadata": {}
+    },
+    {
+      "id": "f6de0324c90f22f21f68fdfb5aed7d4b",
+      "timestamp": "2025-04-07T15:07:26.467728",
+      "user_input": "I will have new event after two  day about AI in tech world and it's something important ",
+      "agent_response": {
+        "type": "suggest_calendar_actions",
+        "action": "create"
+      },
+      "metadata": {}
+    },
+    {
+      "id": "d4916524c23a13a8cff2987e4e476c07",
+      "timestamp": "2025-04-07T15:07:27.231896",
+      "user_input": "I will have new event after two  day about AI in tech world and it's something important ",
+      "agent_response": {
+        "type": "process_natural_language",
+        "result": {
+          "event_name": "AI in Tech World Event",
+          "start_date": "in two days"
+        }
+      },
+      "metadata": {}
+    },
+    {
+      "id": "464577c6694b9af6dd398bce6c66613f",
+      "timestamp": "2025-04-07T15:10:54.783194",
+      "user_input": "I will have new event after two  day about software in tech world and it's something important ",
+      "agent_response": {
+        "type": "suggest_calendar_actions",
+        "action": "create"
+      },
+      "metadata": {}
+    },
+    {
+      "id": "32171a5f895dc02cf15cc4088832a450",
+      "timestamp": "2025-04-07T15:10:55.415817",
+      "user_input": "I will have new event after two  day about software in tech world and it's something important ",
+      "agent_response": {
+        "type": "process_natural_language",
+        "result": {
+          "event_name": "Software event",
+          "start_date": "2025-04-09T15:10:55.464531"
+        }
+      },
+      "metadata": {}
+    },
+    {
+      "id": "8b9c5a08c18d551dac7cf4eed2835540",
+      "timestamp": "2025-04-07T15:41:34.223584",
+      "user_input": "I want to give high priority to software event",
+      "agent_response": {
+        "type": "suggest_calendar_actions",
+        "action": "update"
+      },
+      "metadata": {}
+    },
+    {
+      "id": "8d69399cb6e27d755e5afdb60a04a1ec",
+      "timestamp": "2025-04-07T15:41:36.517224",
+      "user_input": "I want to give high priority to software event",
+      "agent_response": {
+        "type": "process_natural_language",
+        "result": {
+          "task_name": "Software event",
+          "priority": "High"
+        }
+      },
+      "metadata": {}
+    },
+    {
+      "id": "ec9d741026deb3f3ed84e0a02e15254a",
+      "timestamp": "2025-04-07T15:42:01.394380",
+      "user_input": "I want to updata software event to make it high priority",
+      "agent_response": {
+        "type": "suggest_calendar_actions",
+        "action": "update"
+      },
+      "metadata": {}
+    },
+    {
+      "id": "9ea52f84c6a3ae4095babff870c720f1",
+      "timestamp": "2025-04-07T15:42:04.808317",
+      "user_input": "I want to updata software event to make it high priority",
+      "agent_response": {
+        "type": "process_natural_language",
+        "result": {
+          "task_name": "Update software event",
+          "priority": "High"
+        }
+      },
+      "metadata": {}
+    },
+    {
+      "id": "a3cade3e9f6641d88debc6f7034711d8",
+      "timestamp": "2025-04-07T15:43:14.476424",
+      "user_input": "I want to give high priority to software event ",
+      "agent_response": {
+        "type": "suggest_calendar_actions",
+        "action": "update"
+      },
+      "metadata": {}
+    },
+    {
+      "id": "70df0576fa3b2c227393cad9b7b25e23",
+      "timestamp": "2025-04-07T15:43:16.993563",
+      "user_input": "I want to give high priority to software event ",
+      "agent_response": {
+        "type": "process_natural_language",
+        "result": {
+          "task_name": "Software Event",
+          "priority": "High"
+        }
+      },
+      "metadata": {}
+    },
+    {
+      "id": "13c89fc45d4352500246e69ee9e70181",
+      "timestamp": "2025-04-07T15:44:19.647392",
+      "user_input": "make the end data of software event tommorw",
+      "agent_response": {
+        "type": "suggest_calendar_actions",
+        "action": "update"
+      },
+      "metadata": {}
+    },
+    {
+      "id": "e57e66f387e5e5ec7ed3827c2e666eab",
+      "timestamp": "2025-04-07T15:44:24.859201",
+      "user_input": "make the end data of software event tommorw",
+      "agent_response": {
+        "type": "process_natural_language",
+        "result": {
+          "event_name": "Software Event",
+          "end_date": "tomorrow"
+        }
+      },
+      "metadata": {}
+    },
+    {
+      "id": "861c916f3ea581f1ba495d53efb8f70c",
+      "timestamp": "2025-04-07T15:44:38.256585",
+      "user_input": "I want to give high priority to software event ",
+      "agent_response": {
+        "type": "suggest_calendar_actions",
+        "action": "update"
+      },
+      "metadata": {}
+    },
+    {
+      "id": "f28f72891c9e6380c77bb7455a755653",
+      "timestamp": "2025-04-07T15:44:41.017848",
+      "user_input": "I want to give high priority to software event ",
+      "agent_response": {
+        "type": "process_natural_language",
+        "result": {
+          "task_name": "Software Event",
+          "priority": "High"
+        }
+      },
+      "metadata": {}
+    },
+    {
+      "id": "f6b19bda77759024dc67e08938e350c8",
+      "timestamp": "2025-04-07T15:44:57.138224",
+      "user_input": "I want to give low  priority to software event ",
+      "agent_response": {
+        "type": "suggest_calendar_actions",
+        "action": "update"
+      },
+      "metadata": {}
+    },
+    {
+      "id": "b86e0187db6d863817795114b622e78b",
+      "timestamp": "2025-04-07T15:44:59.117874",
+      "user_input": "I want to give low  priority to software event ",
+      "agent_response": {
+        "type": "process_natural_language",
+        "result": {
+          "task_name": "Software event",
+          "priority": "Low"
+        }
+      },
+      "metadata": {}
+    },
+    {
+      "id": "b080aaa3e2d657483d4164ed8f5c7d03",
+      "timestamp": "2025-04-07T19:47:04.677258",
+      "user_input": "I will have new event after two  day about software in tech world and it's something important ",
+      "agent_response": {
+        "type": "suggest_calendar_actions",
+        "action": "create"
+      },
+      "metadata": {}
+    },
+    {
+      "id": "cc4a390b1318e3083d6fd12eace68300",
+      "timestamp": "2025-04-07T19:47:05.574850",
+      "user_input": "I will have new event after two  day about software in tech world and it's something important ",
+      "agent_response": {
+        "type": "process_natural_language",
+        "result": {
+          "event_name": "Software event in tech world",
+          "description": "Important event about software in the tech world",
+          "start_date": "in two days"
+        }
+      },
+      "metadata": {}
+    },
+    {
+      "id": "9d35b0ca5dd9532e7a0ccada47a9b7d2",
+      "timestamp": "2025-04-07T19:47:25.848580",
+      "user_input": "I will have new event after two  day about software in tech world and it's something important ",
+      "agent_response": {
+        "type": "suggest_calendar_actions",
+        "action": "create"
+      },
+      "metadata": {}
+    },
+    {
+      "id": "4511225040bb84634aca795c3e2a3796",
+      "timestamp": "2025-04-07T19:47:26.588394",
+      "user_input": "I will have new event after two  day about software in tech world and it's something important ",
+      "agent_response": {
+        "type": "process_natural_language",
+        "result": {
+          "event_name": "Software event in tech world",
+          "description": "Something important",
+          "start_date": "in two days"
+        }
+      },
+      "metadata": {}
+    },
+    {
+      "id": "73ea3443b1bc4d9e7a28482fb81e23f4",
+      "timestamp": "2025-04-07T19:49:35.609086",
+      "user_input": "I will have new event after two  day about AI in tech world ",
+      "agent_response": {
+        "type": "suggest_calendar_actions",
+        "action": "create"
+      },
+      "metadata": {}
+    },
+    {
+      "id": "2571ed7156ac4682378168e11683694d",
+      "timestamp": "2025-04-07T19:49:36.504868",
+      "user_input": "I will have new event after two  day about AI in tech world ",
+      "agent_response": {
+        "type": "process_natural_language",
+        "result": {
+          "event_name": "AI in tech world event",
+          "start_date": "in two days"
+        }
+      },
+      "metadata": {}
+    }
+  ],
+  "patterns": {
+    "will": {
+      "frequency": 26,
+      "last_seen": "2025-04-07T14:24:54.103788",
+      "examples": [
+        {
+          "input": "I will have new event after three day about AI in tech world and it's something important",
+          "response_status": "unknown",
+          "timestamp": "2025-04-07T14:24:54.103788"
+        },
+        {
+          "input": "I will have new event after three day about AI in tech world and it's something important",
+          "response_status": "unknown",
+          "timestamp": "2025-04-07T14:24:54.862346"
+        },
+        {
+          "input": "I will have new event after three day about AI in tech world and it's something important",
+          "response_status": "unknown",
+          "timestamp": "2025-04-07T14:25:17.396084"
+        },
+        {
+          "input": "I will have new event after three day about AI in tech world and it's something important",
+          "response_status": "unknown",
+          "timestamp": "2025-04-07T14:25:18.216771"
+        },
+        {
+          "input": "I will have new event after two  day about AI in tech world and it's something important ",
+          "response_status": "unknown",
+          "timestamp": "2025-04-07T15:03:47.850117"
+        }
+      ]
+    },
+    "have": {
+      "frequency": 26,
+      "last_seen": "2025-04-07T14:24:54.103788",
+      "examples": [
+        {
+          "input": "I will have new event after three day about AI in tech world and it's something important",
+          "response_status": "unknown",
+          "timestamp": "2025-04-07T14:24:54.104799"
+        },
+        {
+          "input": "I will have new event after three day about AI in tech world and it's something important",
+          "response_status": "unknown",
+          "timestamp": "2025-04-07T14:24:54.862346"
+        },
+        {
+          "input": "I will have new event after three day about AI in tech world and it's something important",
+          "response_status": "unknown",
+          "timestamp": "2025-04-07T14:25:17.396084"
+        },
+        {
+          "input": "I will have new event after three day about AI in tech world and it's something important",
+          "response_status": "unknown",
+          "timestamp": "2025-04-07T14:25:18.216771"
+        },
+        {
+          "input": "I will have new event after two  day about AI in tech world and it's something important ",
+          "response_status": "unknown",
+          "timestamp": "2025-04-07T15:03:47.850117"
+        }
+      ]
+    },
+    "event": {
+      "frequency": 38,
+      "last_seen": "2025-04-07T14:24:54.104799",
+      "examples": [
+        {
+          "input": "I will have new event after three day about AI in tech world and it's something important",
+          "response_status": "unknown",
+          "timestamp": "2025-04-07T14:24:54.104799"
+        },
+        {
+          "input": "I will have new event after three day about AI in tech world and it's something important",
+          "response_status": "unknown",
+          "timestamp": "2025-04-07T14:24:54.862346"
+        },
+        {
+          "input": "I will have new event after three day about AI in tech world and it's something important",
+          "response_status": "unknown",
+          "timestamp": "2025-04-07T14:25:17.396084"
+        },
+        {
+          "input": "I will have new event after three day about AI in tech world and it's something important",
+          "response_status": "unknown",
+          "timestamp": "2025-04-07T14:25:18.216771"
+        },
+        {
+          "input": "I will have new event after two  day about AI in tech world and it's something important ",
+          "response_status": "unknown",
+          "timestamp": "2025-04-07T15:03:47.850117"
+        }
+      ]
+    },
+    "after": {
+      "frequency": 26,
+      "last_seen": "2025-04-07T14:24:54.104799",
+      "examples": [
+        {
+          "input": "I will have new event after three day about AI in tech world and it's something important",
+          "response_status": "unknown",
+          "timestamp": "2025-04-07T14:24:54.104799"
+        },
+        {
+          "input": "I will have new event after three day about AI in tech world and it's something important",
+          "response_status": "unknown",
+          "timestamp": "2025-04-07T14:24:54.862346"
+        },
+        {
+          "input": "I will have new event after three day about AI in tech world and it's something important",
+          "response_status": "unknown",
+          "timestamp": "2025-04-07T14:25:17.396084"
+        },
+        {
+          "input": "I will have new event after three day about AI in tech world and it's something important",
+          "response_status": "unknown",
+          "timestamp": "2025-04-07T14:25:18.216771"
+        },
+        {
+          "input": "I will have new event after two  day about AI in tech world and it's something important ",
+          "response_status": "unknown",
+          "timestamp": "2025-04-07T15:03:47.850117"
+        }
+      ]
+    },
+    "three": {
+      "frequency": 4,
+      "last_seen": "2025-04-07T14:24:54.104799",
+      "examples": [
+        {
+          "input": "I will have new event after three day about AI in tech world and it's something important",
+          "response_status": "unknown",
+          "timestamp": "2025-04-07T14:24:54.104799"
+        },
+        {
+          "input": "I will have new event after three day about AI in tech world and it's something important",
+          "response_status": "unknown",
+          "timestamp": "2025-04-07T14:24:54.862346"
+        },
+        {
+          "input": "I will have new event after three day about AI in tech world and it's something important",
+          "response_status": "unknown",
+          "timestamp": "2025-04-07T14:25:17.396084"
+        },
+        {
+          "input": "I will have new event after three day about AI in tech world and it's something important",
+          "response_status": "unknown",
+          "timestamp": "2025-04-07T14:25:18.216771"
+        }
+      ]
+    },
+    "tech": {
+      "frequency": 26,
+      "last_seen": "2025-04-07T14:24:54.104799",
+      "examples": [
+        {
+          "input": "I will have new event after three day about AI in tech world and it's something important",
+          "response_status": "unknown",
+          "timestamp": "2025-04-07T14:24:54.104799"
+        },
+        {
+          "input": "I will have new event after three day about AI in tech world and it's something important",
+          "response_status": "unknown",
+          "timestamp": "2025-04-07T14:24:54.862346"
+        },
+        {
+          "input": "I will have new event after three day about AI in tech world and it's something important",
+          "response_status": "unknown",
+          "timestamp": "2025-04-07T14:25:17.396084"
+        },
+        {
+          "input": "I will have new event after three day about AI in tech world and it's something important",
+          "response_status": "unknown",
+          "timestamp": "2025-04-07T14:25:18.216771"
+        },
+        {
+          "input": "I will have new event after two  day about AI in tech world and it's something important ",
+          "response_status": "unknown",
+          "timestamp": "2025-04-07T15:03:47.850117"
+        }
+      ]
+    },
+    "world": {
+      "frequency": 26,
+      "last_seen": "2025-04-07T14:24:54.104799",
+      "examples": [
+        {
+          "input": "I will have new event after three day about AI in tech world and it's something important",
+          "response_status": "unknown",
+          "timestamp": "2025-04-07T14:24:54.104799"
+        },
+        {
+          "input": "I will have new event after three day about AI in tech world and it's something important",
+          "response_status": "unknown",
+          "timestamp": "2025-04-07T14:24:54.862346"
+        },
+        {
+          "input": "I will have new event after three day about AI in tech world and it's something important",
+          "response_status": "unknown",
+          "timestamp": "2025-04-07T14:25:17.396084"
+        },
+        {
+          "input": "I will have new event after three day about AI in tech world and it's something important",
+          "response_status": "unknown",
+          "timestamp": "2025-04-07T14:25:18.216771"
+        },
+        {
+          "input": "I will have new event after two  day about AI in tech world and it's something important ",
+          "response_status": "unknown",
+          "timestamp": "2025-04-07T15:03:47.850117"
+        }
+      ]
+    },
+    "it's": {
+      "frequency": 22,
+      "last_seen": "2025-04-07T14:24:54.104799",
+      "examples": [
+        {
+          "input": "I will have new event after three day about AI in tech world and it's something important",
+          "response_status": "unknown",
+          "timestamp": "2025-04-07T14:24:54.104799"
+        },
+        {
+          "input": "I will have new event after three day about AI in tech world and it's something important",
+          "response_status": "unknown",
+          "timestamp": "2025-04-07T14:24:54.862346"
+        },
+        {
+          "input": "I will have new event after three day about AI in tech world and it's something important",
+          "response_status": "unknown",
+          "timestamp": "2025-04-07T14:25:17.396084"
+        },
+        {
+          "input": "I will have new event after three day about AI in tech world and it's something important",
+          "response_status": "unknown",
+          "timestamp": "2025-04-07T14:25:18.216771"
+        },
+        {
+          "input": "I will have new event after two  day about AI in tech world and it's something important ",
+          "response_status": "unknown",
+          "timestamp": "2025-04-07T15:03:47.850117"
+        }
+      ]
+    },
+    "something": {
+      "frequency": 22,
+      "last_seen": "2025-04-07T14:24:54.104799",
+      "examples": [
+        {
+          "input": "I will have new event after three day about AI in tech world and it's something important",
+          "response_status": "unknown",
+          "timestamp": "2025-04-07T14:24:54.104799"
+        },
+        {
+          "input": "I will have new event after three day about AI in tech world and it's something important",
+          "response_status": "unknown",
+          "timestamp": "2025-04-07T14:24:54.862346"
+        },
+        {
+          "input": "I will have new event after three day about AI in tech world and it's something important",
+          "response_status": "unknown",
+          "timestamp": "2025-04-07T14:25:17.396084"
+        },
+        {
+          "input": "I will have new event after three day about AI in tech world and it's something important",
+          "response_status": "unknown",
+          "timestamp": "2025-04-07T14:25:18.216771"
+        },
+        {
+          "input": "I will have new event after two  day about AI in tech world and it's something important ",
+          "response_status": "unknown",
+          "timestamp": "2025-04-07T15:03:47.850117"
+        }
+      ]
+    },
+    "important": {
+      "frequency": 22,
+      "last_seen": "2025-04-07T14:24:54.104799",
+      "examples": [
+        {
+          "input": "I will have new event after three day about AI in tech world and it's something important",
+          "response_status": "unknown",
+          "timestamp": "2025-04-07T14:24:54.104799"
+        },
+        {
+          "input": "I will have new event after three day about AI in tech world and it's something important",
+          "response_status": "unknown",
+          "timestamp": "2025-04-07T14:24:54.862346"
+        },
+        {
+          "input": "I will have new event after three day about AI in tech world and it's something important",
+          "response_status": "unknown",
+          "timestamp": "2025-04-07T14:25:17.396084"
+        },
+        {
+          "input": "I will have new event after three day about AI in tech world and it's something important",
+          "response_status": "unknown",
+          "timestamp": "2025-04-07T14:25:18.216771"
+        },
+        {
+          "input": "I will have new event after two  day about AI in tech world and it's something important ",
+          "response_status": "unknown",
+          "timestamp": "2025-04-07T15:03:47.850117"
+        }
+      ]
+    },
+    "software": {
+      "frequency": 18,
+      "last_seen": "2025-04-07T15:10:54.783194",
+      "examples": [
+        {
+          "input": "I will have new event after two  day about software in tech world and it's something important ",
+          "response_status": "unknown",
+          "timestamp": "2025-04-07T15:10:54.783194"
+        },
+        {
+          "input": "I will have new event after two  day about software in tech world and it's something important ",
+          "response_status": "unknown",
+          "timestamp": "2025-04-07T15:10:55.415817"
+        },
+        {
+          "input": "I want to give high priority to software event",
+          "response_status": "unknown",
+          "timestamp": "2025-04-07T15:41:34.223584"
+        },
+        {
+          "input": "I want to give high priority to software event",
+          "response_status": "unknown",
+          "timestamp": "2025-04-07T15:41:36.517224"
+        },
+        {
+          "input": "I want to updata software event to make it high priority",
+          "response_status": "unknown",
+          "timestamp": "2025-04-07T15:42:01.394380"
+        }
+      ]
+    },
+    "want": {
+      "frequency": 10,
+      "last_seen": "2025-04-07T15:41:34.223584",
+      "examples": [
+        {
+          "input": "I want to give high priority to software event",
+          "response_status": "unknown",
+          "timestamp": "2025-04-07T15:41:34.223584"
+        },
+        {
+          "input": "I want to give high priority to software event",
+          "response_status": "unknown",
+          "timestamp": "2025-04-07T15:41:36.517224"
+        },
+        {
+          "input": "I want to updata software event to make it high priority",
+          "response_status": "unknown",
+          "timestamp": "2025-04-07T15:42:01.394380"
+        },
+        {
+          "input": "I want to updata software event to make it high priority",
+          "response_status": "unknown",
+          "timestamp": "2025-04-07T15:42:04.808317"
+        },
+        {
+          "input": "I want to give high priority to software event ",
+          "response_status": "unknown",
+          "timestamp": "2025-04-07T15:43:14.476424"
+        }
+      ]
+    },
+    "give": {
+      "frequency": 8,
+      "last_seen": "2025-04-07T15:41:34.223584",
+      "examples": [
+        {
+          "input": "I want to give high priority to software event",
+          "response_status": "unknown",
+          "timestamp": "2025-04-07T15:41:34.223584"
+        },
+        {
+          "input": "I want to give high priority to software event",
+          "response_status": "unknown",
+          "timestamp": "2025-04-07T15:41:36.517224"
+        },
+        {
+          "input": "I want to give high priority to software event ",
+          "response_status": "unknown",
+          "timestamp": "2025-04-07T15:43:14.476424"
+        },
+        {
+          "input": "I want to give high priority to software event ",
+          "response_status": "unknown",
+          "timestamp": "2025-04-07T15:43:16.993563"
+        },
+        {
+          "input": "I want to give high priority to software event ",
+          "response_status": "unknown",
+          "timestamp": "2025-04-07T15:44:38.256585"
+        }
+      ]
+    },
+    "high": {
+      "frequency": 8,
+      "last_seen": "2025-04-07T15:41:34.223584",
+      "examples": [
+        {
+          "input": "I want to give high priority to software event",
+          "response_status": "unknown",
+          "timestamp": "2025-04-07T15:41:34.223584"
+        },
+        {
+          "input": "I want to give high priority to software event",
+          "response_status": "unknown",
+          "timestamp": "2025-04-07T15:41:36.517224"
+        },
+        {
+          "input": "I want to updata software event to make it high priority",
+          "response_status": "unknown",
+          "timestamp": "2025-04-07T15:42:01.394380"
+        },
+        {
+          "input": "I want to updata software event to make it high priority",
+          "response_status": "unknown",
+          "timestamp": "2025-04-07T15:42:04.808317"
+        },
+        {
+          "input": "I want to give high priority to software event ",
+          "response_status": "unknown",
+          "timestamp": "2025-04-07T15:43:14.476424"
+        }
+      ]
+    },
+    "priority": {
+      "frequency": 10,
+      "last_seen": "2025-04-07T15:41:34.223584",
+      "examples": [
+        {
+          "input": "I want to give high priority to software event",
+          "response_status": "unknown",
+          "timestamp": "2025-04-07T15:41:34.223584"
+        },
+        {
+          "input": "I want to give high priority to software event",
+          "response_status": "unknown",
+          "timestamp": "2025-04-07T15:41:36.517224"
+        },
+        {
+          "input": "I want to updata software event to make it high priority",
+          "response_status": "unknown",
+          "timestamp": "2025-04-07T15:42:01.394380"
+        },
+        {
+          "input": "I want to updata software event to make it high priority",
+          "response_status": "unknown",
+          "timestamp": "2025-04-07T15:42:04.808317"
+        },
+        {
+          "input": "I want to give high priority to software event ",
+          "response_status": "unknown",
+          "timestamp": "2025-04-07T15:43:14.476424"
+        }
+      ]
+    },
+    "updata": {
+      "frequency": 2,
+      "last_seen": "2025-04-07T15:42:01.394380",
+      "examples": [
+        {
+          "input": "I want to updata software event to make it high priority",
+          "response_status": "unknown",
+          "timestamp": "2025-04-07T15:42:01.394380"
+        },
+        {
+          "input": "I want to updata software event to make it high priority",
+          "response_status": "unknown",
+          "timestamp": "2025-04-07T15:42:04.808317"
+        }
+      ]
+    },
+    "make": {
+      "frequency": 4,
+      "last_seen": "2025-04-07T15:42:01.394380",
+      "examples": [
+        {
+          "input": "I want to updata software event to make it high priority",
+          "response_status": "unknown",
+          "timestamp": "2025-04-07T15:42:01.394380"
+        },
+        {
+          "input": "I want to updata software event to make it high priority",
+          "response_status": "unknown",
+          "timestamp": "2025-04-07T15:42:04.808317"
+        },
+        {
+          "input": "make the end data of software event tommorw",
+          "response_status": "unknown",
+          "timestamp": "2025-04-07T15:44:19.647392"
+        },
+        {
+          "input": "make the end data of software event tommorw",
+          "response_status": "unknown",
+          "timestamp": "2025-04-07T15:44:24.859201"
+        }
+      ]
+    },
+    "data": {
+      "frequency": 2,
+      "last_seen": "2025-04-07T15:44:19.647392",
+      "examples": [
+        {
+          "input": "make the end data of software event tommorw",
+          "response_status": "unknown",
+          "timestamp": "2025-04-07T15:44:19.647392"
+        },
+        {
+          "input": "make the end data of software event tommorw",
+          "response_status": "unknown",
+          "timestamp": "2025-04-07T15:44:24.859201"
+        }
+      ]
+    },
+    "tommorw": {
+      "frequency": 2,
+      "last_seen": "2025-04-07T15:44:19.647392",
+      "examples": [
+        {
+          "input": "make the end data of software event tommorw",
+          "response_status": "unknown",
+          "timestamp": "2025-04-07T15:44:19.647392"
+        },
+        {
+          "input": "make the end data of software event tommorw",
+          "response_status": "unknown",
+          "timestamp": "2025-04-07T15:44:24.859201"
+        }
+      ]
+    }
+  },
+  "preferences": {}
+}

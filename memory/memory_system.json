@@ -1,0 +1,1701 @@
+{
+  "interactions": [
+    {
+      "id": "f647b8ae38b6acd61c1273c916a29d76",
+      "timestamp": "2025-04-07T12:49:12.533419",
+      "user_input": "I want to set my goals for tommorw it is about going to the gym",
+      "agent_response": {
+        "status": "processing",
+        "agent_type": "todo"
+      },
+      "metadata": {
+        "agent_type": "todo"
+      }
+    },
+    {
+      "id": "708d817a9074719ea5515f6ebd85527f",
+      "timestamp": "2025-04-07T12:50:04.416332",
+      "user_input": "I want to set my goals for tommorw it is about going to the gym",
+      "agent_response": {
+        "status": "success",
+        "message": "Created todo 'Set gym goals for tomorrow' with due date 2025-04-08T12:49:00.000+00:00",
+        "todo": {
+          "id": "1ce14f08-ff40-8162-ac55-eedba7483a4a",
+          "task_name": "Set gym goals for tomorrow",
+          "due_date": "2025-04-08T12:49:00.000+00:00",
+          "status": "Not Started",
+          "notes": "Going to the gym"
+        }
+      },
+      "metadata": {
+        "agent_type": "todo",
+        "result_status": "success"
+      }
+    },
+    {
+      "id": "f7e97743492634a5b7c5d731003c4b3e",
+      "timestamp": "2025-04-07T13:12:31.383313",
+      "user_input": "I want to set new goal about getting remote job",
+      "agent_response": {
+        "status": "processing",
+        "agent_type": "unknown"
+      },
+      "metadata": {
+        "agent_type": "unknown"
+      }
+    },
+    {
+      "id": "ff65efa6b13a60b75699c58f9ac8bc4e",
+      "timestamp": "2025-04-07T13:12:31.385596",
+      "user_input": "I want to set new goal about getting remote job",
+      "agent_response": {
+        "status": "error",
+        "message": "I'm not sure if you want to manage calendar events or todo items. Please be more specific."
+      },
+      "metadata": {
+        "agent_type": "unknown",
+        "result_status": "error"
+      }
+    },
+    {
+      "id": "58ac2a086e5468222b46dee1d4dfa366",
+      "timestamp": "2025-04-07T13:13:02.796680",
+      "user_input": "I want to add new task to search on remot job tommorw",
+      "agent_response": {
+        "status": "processing",
+        "agent_type": "todo"
+      },
+      "metadata": {
+        "agent_type": "todo"
+      }
+    },
+    {
+      "id": "f81c6de5fcddfc80ac14a700319227e6",
+      "timestamp": "2025-04-07T13:18:40.189791",
+      "user_input": "I want to set new goal about getting remote job",
+      "agent_response": {
+        "status": "processing",
+        "agent_type": "unknown"
+      },
+      "metadata": {
+        "agent_type": "unknown"
+      }
+    },
+    {
+      "id": "1644b9c36613f28f53e806724a110f9b",
+      "timestamp": "2025-04-07T13:18:40.190791",
+      "user_input": "I want to set new goal about getting remote job",
+      "agent_response": {
+        "status": "error",
+        "message": "I'm not sure if you want to manage calendar events or todo items. Please be more specific."
+      },
+      "metadata": {
+        "agent_type": "unknown",
+        "result_status": "error"
+      }
+    },
+    {
+      "id": "7b4cfe78ae8aa6f6f51c6e6a9466c4fc",
+      "timestamp": "2025-04-07T13:19:13.421372",
+      "user_input": "I want to set new task  about about searching on  remote job tommorow",
+      "agent_response": {
+        "status": "processing",
+        "agent_type": "todo"
+      },
+      "metadata": {
+        "agent_type": "todo"
+      }
+    },
+    {
+      "id": "2461dd3afa215e53a014b45c276b611c",
+      "timestamp": "2025-04-07T13:19:46.562675",
+      "user_input": "I want to set new task  about about searching on  remote job tommorow",
+      "agent_response": {
+        "status": "success",
+        "message": "Created todo 'Search for remote jobs' with due date 2025-04-08T13:19:00.000+00:00",
+        "todo": {
+          "id": "1ce14f08-ff40-81ad-9acc-d582fc84b68e",
+          "task_name": "Search for remote jobs",
+          "due_date": "2025-04-08T13:19:00.000+00:00",
+          "status": "Not Started",
+          "priority": "Medium"
+        }
+      },
+      "metadata": {
+        "agent_type": "todo",
+        "result_status": "success"
+      }
+    },
+    {
+      "id": "f065f965cdfc1efae8beac74cc7e5560",
+      "timestamp": "2025-04-07T14:24:51.358040",
+      "user_input": "I will have new event after three day about AI in tech world and it's something important",
+      "agent_response": {
+        "status": "processing",
+        "agent_type": "calendar"
+      },
+      "metadata": {
+        "agent_type": "calendar"
+      }
+    },
+    {
+      "id": "b3ac834438d8927a3826ea7cab08727b",
+      "timestamp": "2025-04-07T14:24:56.126364",
+      "user_input": "I will have new event after three day about AI in tech world and it's something important",
+      "agent_response": {
+        "status": "error",
+        "message": "Failed to create the event in Notion."
+      },
+      "metadata": {
+        "agent_type": "calendar",
+        "result_status": "error"
+      }
+    },
+    {
+      "id": "5d0a8de3d730965d0fe1666e44da6663",
+      "timestamp": "2025-04-07T14:25:12.624255",
+      "user_input": "I will have new event after three day about AI in tech world and it's something important",
+      "agent_response": {
+        "status": "processing",
+        "agent_type": "calendar"
+      },
+      "metadata": {
+        "agent_type": "calendar"
+      }
+    },
+    {
+      "id": "316c4f0b6071a2997e3c36399c8377a0",
+      "timestamp": "2025-04-07T14:25:20.206793",
+      "user_input": "I will have new event after three day about AI in tech world and it's something important",
+      "agent_response": {
+        "status": "success",
+        "message": "Created event 'AI in Tech World Event' on 2025-04-10T14:25:00.000+00:00",
+        "event": {
+          "id": "1ce14f08-ff40-81b3-9a03-cfa44821072b",
+          "event_name": "AI in Tech World Event",
+          "start_date": "2025-04-10T14:25:00.000+00:00"
+        }
+      },
+      "metadata": {
+        "agent_type": "calendar",
+        "result_status": "success"
+      }
+    },
+    {
+      "id": "5a7f913194321ac16c64f943fad244d0",
+      "timestamp": "2025-04-07T15:03:44.871047",
+      "user_input": "I will have new event after two  day about AI in tech world and it's something important ",
+      "agent_response": {
+        "status": "processing",
+        "agent_type": "calendar"
+      },
+      "metadata": {
+        "agent_type": "calendar"
+      }
+    },
+    {
+      "id": "c17c66253fdb881ff829143384096798",
+      "timestamp": "2025-04-07T15:03:53.373634",
+      "user_input": "I will have new event after two  day about AI in tech world and it's something important ",
+      "agent_response": {
+        "status": "error",
+        "message": "Failed to create the event in Notion."
+      },
+      "metadata": {
+        "agent_type": "calendar",
+        "result_status": "error"
+      }
+    },
+    {
+      "id": "9a3b87e8f0ebdac5ea4190b4b0f6e6f8",
+      "timestamp": "2025-04-07T15:03:56.054187",
+      "user_input": "I will have new event after two  day about AI in tech world and it's something important ",
+      "agent_response": {
+        "status": "processing",
+        "agent_type": "calendar"
+      },
+      "metadata": {
+        "agent_type": "calendar"
+      }
+    },
+    {
+      "id": "820c1c0827ae5d4c978c1f1c6b58881e",
+      "timestamp": "2025-04-07T15:04:00.385890",
+      "user_input": "I will have new event after two  day about AI in tech world and it's something important ",
+      "agent_response": {
+        "status": "error",
+        "message": "Failed to create the event in Notion."
+      },
+      "metadata": {
+        "agent_type": "calendar",
+        "result_status": "error"
+      }
+    },
+    {
+      "id": "b42558d13ce029c61c9e280105d9d37b",
+      "timestamp": "2025-04-07T15:04:14.365940",
+      "user_input": "I will have new event after two  day about AI in tech world and it's something important ",
+      "agent_response": {
+        "status": "processing",
+        "agent_type": "calendar"
+      },
+      "metadata": {
+        "agent_type": "calendar"
+      }
+    },
+    {
+      "id": "12b34b376c964981e526b70663cb633f",
+      "timestamp": "2025-04-07T15:04:20.886021",
+      "user_input": "I will have new event after two  day about AI in tech world and it's something important ",
+      "agent_response": {
+        "status": "error",
+        "message": "Failed to create the event in Notion."
+      },
+      "metadata": {
+        "agent_type": "calendar",
+        "result_status": "error"
+      }
+    },
+    {
+      "id": "12dc9fcbad47c2fcd2a6e91c4da4d634",
+      "timestamp": "2025-04-07T15:05:02.645692",
+      "user_input": "I will have new event after two  day about AI in tech world and it's something important ",
+      "agent_response": {
+        "status": "processing",
+        "agent_type": "calendar"
+      },
+      "metadata": {
+        "agent_type": "calendar"
+      }
+    },
+    {
+      "id": "6e73fdc31d9b732da2886fc6dc480759",
+      "timestamp": "2025-04-07T15:05:07.991067",
+      "user_input": "I will have new event after two  day about AI in tech world and it's something important ",
+      "agent_response": {
+        "status": "error",
+        "message": "Failed to create the event in Notion."
+      },
+      "metadata": {
+        "agent_type": "calendar",
+        "result_status": "error"
+      }
+    },
+    {
+      "id": "8cdef9a93439bea3231d25b093eadbf7",
+      "timestamp": "2025-04-07T15:05:38.031760",
+      "user_input": "I will have new event after two  day about AI in tech world",
+      "agent_response": {
+        "status": "processing",
+        "agent_type": "calendar"
+      },
+      "metadata": {
+        "agent_type": "calendar"
+      }
+    },
+    {
+      "id": "7ab702978607b86f119456ef0a1ebed5",
+      "timestamp": "2025-04-07T15:05:44.315973",
+      "user_input": "I will have new event after two  day about AI in tech world",
+      "agent_response": {
+        "status": "error",
+        "message": "Failed to create the event in Notion."
+      },
+      "metadata": {
+        "agent_type": "calendar",
+        "result_status": "error"
+      }
+    },
+    {
+      "id": "ff8436bf2189572a5f0706cf9b6f3147",
+      "timestamp": "2025-04-07T15:06:11.551737",
+      "user_input": "add new to do task about gym tomorw",
+      "agent_response": {
+        "status": "processing",
+        "agent_type": "todo"
+      },
+      "metadata": {
+        "agent_type": "todo"
+      }
+    },
+    {
+      "id": "998c10c1fb93df0672996d4a3ef7dd4f",
+      "timestamp": "2025-04-07T15:06:20.939314",
+      "user_input": "add new to do task about gym tomorw",
+      "agent_response": {
+        "status": "success",
+        "message": "Created todo 'Go to gym' with no due date",
+        "todo": {
+          "id": "1ce14f08-ff40-81a6-a2ce-fd130f82be6a",
+          "task_name": "Go to gym",
+          "status": "Not Started",
+          "priority": "Medium"
+        }
+      },
+      "metadata": {
+        "agent_type": "todo",
+        "result_status": "success"
+      }
+    },
+    {
+      "id": "91cb2a60333b16f6dc64d02d4bd26b29",
+      "timestamp": "2025-04-07T15:06:43.390934",
+      "user_input": "I will have new event after two  day about AI in tech world and it's something important ",
+      "agent_response": {
+        "status": "processing",
+        "agent_type": "calendar"
+      },
+      "metadata": {
+        "agent_type": "calendar"
+      }
+    },
+    {
+      "id": "936a5a9dfb9930bd7b07b66877f8ee54",
+      "timestamp": "2025-04-07T15:06:47.791302",
+      "user_input": "I will have new event after two  day about AI in tech world and it's something important ",
+      "agent_response": {
+        "status": "error",
+        "message": "Failed to create the event in Notion."
+      },
+      "metadata": {
+        "agent_type": "calendar",
+        "result_status": "error"
+      }
+    },
+    {
+      "id": "4602be5b2bb65b4775fed83c33f970e2",
+      "timestamp": "2025-04-07T15:07:23.217080",
+      "user_input": "I will have new event after two  day about AI in tech world and it's something important ",
+      "agent_response": {
+        "status": "processing",
+        "agent_type": "calendar"
+      },
+      "metadata": {
+        "agent_type": "calendar"
+      }
+    },
+    {
+      "id": "5779e8c391604444aee5c80dbdb1bbee",
+      "timestamp": "2025-04-07T15:07:28.558050",
+      "user_input": "I will have new event after two  day about AI in tech world and it's something important ",
+      "agent_response": {
+        "status": "error",
+        "message": "Failed to create the event in Notion."
+      },
+      "metadata": {
+        "agent_type": "calendar",
+        "result_status": "error"
+      }
+    },
+    {
+      "id": "35731466ec882c82699f14e168455213",
+      "timestamp": "2025-04-07T15:07:47.624490",
+      "user_input": "add to do task for going to the gym tommorw",
+      "agent_response": {
+        "status": "processing",
+        "agent_type": "todo"
+      },
+      "metadata": {
+        "agent_type": "todo"
+      }
+    },
+    {
+      "id": "f31bbb39bb207911759f0d9e4c33a07e",
+      "timestamp": "2025-04-07T15:07:58.198480",
+      "user_input": "add to do task for going to the gym tommorw",
+      "agent_response": {
+        "status": "error",
+        "message": "I couldn't identify which todo item you want to update. Please specify the task name more clearly."
+      },
+      "metadata": {
+        "agent_type": "todo",
+        "result_status": "error"
+      }
+    },
+    {
+      "id": "7d02cf4eb2f2e2301f56539b3f7975ec",
+      "timestamp": "2025-04-07T15:08:21.001653",
+      "user_input": "add new to do about goint to uni after two day",
+      "agent_response": {
+        "status": "processing",
+        "agent_type": "todo"
+      },
+      "metadata": {
+        "agent_type": "todo"
+      }
+    },
+    {
+      "id": "6c08f26807ecf0f324855bd866e72407",
+      "timestamp": "2025-04-07T15:08:28.599066",
+      "user_input": "add new to do about goint to uni after two day",
+      "agent_response": {
+        "status": "error",
+        "message": "Failed to create the todo item in Notion."
+      },
+      "metadata": {
+        "agent_type": "todo",
+        "result_status": "error"
+      }
+    },
+    {
+      "id": "bc8f15768974cc0b195750778aa96580",
+      "timestamp": "2025-04-07T15:08:41.910641",
+      "user_input": "add new to do about goint to uni after two days",
+      "agent_response": {
+        "status": "processing",
+        "agent_type": "todo"
+      },
+      "metadata": {
+        "agent_type": "todo"
+      }
+    },
+    {
+      "id": "15ca29c2bc137f501a1dcacfd484d95d",
+      "timestamp": "2025-04-07T15:08:58.318461",
+      "user_input": "add new to do about goint to uni after two days",
+      "agent_response": {
+        "status": "error",
+        "message": "Failed to create the todo item in Notion."
+      },
+      "metadata": {
+        "agent_type": "todo",
+        "result_status": "error"
+      }
+    },
+    {
+      "id": "d21825be13026e353b91f67766f12774",
+      "timestamp": "2025-04-07T15:10:51.998251",
+      "user_input": "I will have new event after two  day about software in tech world and it's something important ",
+      "agent_response": {
+        "status": "processing",
+        "agent_type": "calendar"
+      },
+      "metadata": {
+        "agent_type": "calendar"
+      }
+    },
+    {
+      "id": "1deaca2a1ad4cc4e43c8487ce968319e",
+      "timestamp": "2025-04-07T15:10:57.058543",
+      "user_input": "I will have new event after two  day about software in tech world and it's something important ",
+      "agent_response": {
+        "status": "success",
+        "message": "Created event 'Software event' on 2025-04-09T15:10:00.000+00:00",
+        "event": {
+          "id": "1ce14f08-ff40-81c2-8969-f2c920ad76ae",
+          "event_name": "Software event",
+          "start_date": "2025-04-09T15:10:00.000+00:00"
+        }
+      },
+      "metadata": {
+        "agent_type": "calendar",
+        "result_status": "success"
+      }
+    },
+    {
+      "id": "0563cef493039f995e54521a98bf844d",
+      "timestamp": "2025-04-07T15:41:30.080455",
+      "user_input": "I want to give high priority to software event",
+      "agent_response": {
+        "status": "processing",
+        "agent_type": "calendar"
+      },
+      "metadata": {
+        "agent_type": "calendar"
+      }
+    },
+    {
+      "id": "a1f817fdf9cbf578f1ea1f1313e0a95b",
+      "timestamp": "2025-04-07T15:41:36.520243",
+      "user_input": "I want to give high priority to software event",
+      "agent_response": {
+        "status": "error",
+        "message": "I couldn't identify which event you want to update. Please specify the event name or date more clearly."
+      },
+      "metadata": {
+        "agent_type": "calendar",
+        "result_status": "error"
+      }
+    },
+    {
+      "id": "9d4c3fdd02f02de18bd0d908f6929387",
+      "timestamp": "2025-04-07T15:41:58.683415",
+      "user_input": "I want to updata software event to make it high priority",
+      "agent_response": {
+        "status": "processing",
+        "agent_type": "calendar"
+      },
+      "metadata": {
+        "agent_type": "calendar"
+      }
+    },
+    {
+      "id": "e6750797ff85d6cfcfa810668a47ba63",
+      "timestamp": "2025-04-07T15:42:04.810100",
+      "user_input": "I want to updata software event to make it high priority",
+      "agent_response": {
+        "status": "error",
+        "message": "I couldn't identify which event you want to update. Please specify the event name or date more clearly."
+      },
+      "metadata": {
+        "agent_type": "calendar",
+        "result_status": "error"
+      }
+    },
+    {
+      "id": "fd3a6234bfab0772af6f2d395b639cfb",
+      "timestamp": "2025-04-07T15:43:11.047650",
+      "user_input": "I want to give high priority to software event ",
+      "agent_response": {
+        "status": "processing",
+        "agent_type": "calendar"
+      },
+      "metadata": {
+        "agent_type": "calendar"
+      }
+    },
+    {
+      "id": "85743ce536c597998cf79b1760721d04",
+      "timestamp": "2025-04-07T15:43:18.562245",
+      "user_input": "I want to give high priority to software event ",
+      "agent_response": {
+        "status": "success",
+        "message": "Updated event 'Software event' with new details",
+        "event": {
+          "id": "1ce14f08-ff40-81c2-8969-f2c920ad76ae",
+          "event_name": "Software event",
+          "start_date": "2025-04-09T15:10:00.000+00:00"
+        }
+      },
+      "metadata": {
+        "agent_type": "calendar",
+        "result_status": "success"
+      }
+    },
+    {
+      "id": "8e34a9a8fd9bfe938a327be9bb23a7a1",
+      "timestamp": "2025-04-07T15:43:30.217568",
+      "user_input": "make it low priority",
+      "agent_response": {
+        "status": "processing",
+        "agent_type": "todo"
+      },
+      "metadata": {
+        "agent_type": "todo"
+      }
+    },
+    {
+      "id": "a5f91e04d0b015c34656b36d3689bf31",
+      "timestamp": "2025-04-07T15:43:40.941076",
+      "user_input": "make it low priority",
+      "agent_response": {
+        "status": "error",
+        "message": "I couldn't identify which todo item you want to update. Please specify the task name more clearly."
+      },
+      "metadata": {
+        "agent_type": "todo",
+        "result_status": "error"
+      }
+    },
+    {
+      "id": "0e5cf82d6189c229865c14e6d91623d1",
+      "timestamp": "2025-04-07T15:44:17.110284",
+      "user_input": "make the end data of software event tommorw",
+      "agent_response": {
+        "status": "processing",
+        "agent_type": "calendar"
+      },
+      "metadata": {
+        "agent_type": "calendar"
+      }
+    },
+    {
+      "id": "123620ab8437e93d98a3b4a8a75af34e",
+      "timestamp": "2025-04-07T15:44:25.517820",
+      "user_input": "make the end data of software event tommorw",
+      "agent_response": {
+        "status": "error",
+        "message": "Failed to update the event in Notion."
+      },
+      "metadata": {
+        "agent_type": "calendar",
+        "result_status": "error"
+      }
+    },
+    {
+      "id": "90af440f5c4ee012a6dbf0a08fc96548",
+      "timestamp": "2025-04-07T15:44:35.246657",
+      "user_input": "I want to give high priority to software event ",
+      "agent_response": {
+        "status": "processing",
+        "agent_type": "calendar"
+      },
+      "metadata": {
+        "agent_type": "calendar"
+      }
+    },
+    {
+      "id": "91782dd5eaf4202464a4d355e445efe5",
+      "timestamp": "2025-04-07T15:44:41.709843",
+      "user_input": "I want to give high priority to software event ",
+      "agent_response": {
+        "status": "error",
+        "message": "Failed to update the event in Notion."
+      },
+      "metadata": {
+        "agent_type": "calendar",
+        "result_status": "error"
+      }
+    },
+    {
+      "id": "e88194efa5c606f7b0598a139a0c1fb1",
+      "timestamp": "2025-04-07T15:44:54.903950",
+      "user_input": "I want to give low  priority to software event ",
+      "agent_response": {
+        "status": "processing",
+        "agent_type": "calendar"
+      },
+      "metadata": {
+        "agent_type": "calendar"
+      }
+    },
+    {
+      "id": "b05563385f108476b14c83319559fe44",
+      "timestamp": "2025-04-07T15:44:59.877706",
+      "user_input": "I want to give low  priority to software event ",
+      "agent_response": {
+        "status": "success",
+        "message": "Updated event 'Software event' with new details",
+        "event": {
+          "id": "1ce14f08-ff40-81c2-8969-f2c920ad76ae",
+          "event_name": "Software event",
+          "start_date": "2025-04-09T15:10:00.000+00:00"
+        }
+      },
+      "metadata": {
+        "agent_type": "calendar",
+        "result_status": "success"
+      }
+    },
+    {
+      "id": "f915d0f00fc259b217b6ad5d442b341d",
+      "timestamp": "2025-04-07T19:47:01.776657",
+      "user_input": "I will have new event after two  day about software in tech world and it's something important ",
+      "agent_response": {
+        "status": "processing",
+        "agent_type": "calendar"
+      },
+      "metadata": {
+        "agent_type": "calendar"
+      }
+    },
+    {
+      "id": "cdeb582ddbaba27a865c809f15b6ac6b",
+      "timestamp": "2025-04-07T19:47:07.358114",
+      "user_input": "I will have new event after two  day about software in tech world and it's something important ",
+      "agent_response": {
+        "status": "success",
+        "message": "Created event 'Software event in tech world' on 2025-04-09T19:47:00.000+00:00",
+        "event": {
+          "id": "1ce14f08-ff40-8161-ad6e-d244bc820307",
+          "event_name": "Software event in tech world",
+          "start_date": "2025-04-09T19:47:00.000+00:00",
+          "description": "Important event about software in the tech world"
+        }
+      },
+      "metadata": {
+        "agent_type": "calendar",
+        "result_status": "success"
+      }
+    },
+    {
+      "id": "733771ab453ec72408285b3a56d0f533",
+      "timestamp": "2025-04-07T19:47:07.870112",
+      "user_input": "",
+      "agent_response": {
+        "status": "processing",
+        "agent_type": "unknown"
+      },
+      "metadata": {
+        "agent_type": "unknown"
+      }
+    },
+    {
+      "id": "013b600b2af6b118c584bf5adf08de00",
+      "timestamp": "2025-04-07T19:47:07.873629",
+      "user_input": "",
+      "agent_response": {
+        "status": "error",
+        "message": "I'm not sure if you want to manage calendar events or todo items. Please be more specific."
+      },
+      "metadata": {
+        "agent_type": "unknown",
+        "result_status": "error"
+      }
+    },
+    {
+      "id": "9a47617d2d951f3f3d979b360948e4cb",
+      "timestamp": "2025-04-07T19:47:23.238336",
+      "user_input": "I will have new event after two  day about software in tech world and it's something important ",
+      "agent_response": {
+        "status": "processing",
+        "agent_type": "calendar"
+      },
+      "metadata": {
+        "agent_type": "calendar"
+      }
+    },
+    {
+      "id": "4abad0abe02a6482952fa10e16f8ba2f",
+      "timestamp": "2025-04-07T19:47:28.869747",
+      "user_input": "I will have new event after two  day about software in tech world and it's something important ",
+      "agent_response": {
+        "status": "success",
+        "message": "Created event 'Software event in tech world' on 2025-04-09T19:47:00.000+00:00",
+        "event": {
+          "id": "1ce14f08-ff40-813b-a02a-f38a579f9bc0",
+          "event_name": "Software event in tech world",
+          "start_date": "2025-04-09T19:47:00.000+00:00",
+          "description": "Something important"
+        }
+      },
+      "metadata": {
+        "agent_type": "calendar",
+        "result_status": "success"
+      }
+    },
+    {
+      "id": "40dd9cc04c7d2d7542d731123bb89b7b",
+      "timestamp": "2025-04-07T19:49:32.161071",
+      "user_input": "I will have new event after two  day about AI in tech world ",
+      "agent_response": {
+        "status": "processing",
+        "agent_type": "calendar"
+      },
+      "metadata": {
+        "agent_type": "calendar"
+      }
+    },
+    {
+      "id": "16429a45fb19ae35caba0cee3a518b64",
+      "timestamp": "2025-04-07T19:49:38.370495",
+      "user_input": "I will have new event after two  day about AI in tech world ",
+      "agent_response": {
+        "status": "success",
+        "message": "Created event 'AI in tech world event' on 2025-04-09T19:49:00.000+00:00",
+        "event": {
+          "id": "1ce14f08-ff40-81dc-8270-d201d66e0c92",
+          "event_name": "AI in tech world event",
+          "start_date": "2025-04-09T19:49:00.000+00:00"
+        }
+      },
+      "metadata": {
+        "agent_type": "calendar",
+        "result_status": "success"
+      }
+    },
+    {
+      "id": "376f6545b3cea96a8e11d56a3a69471d",
+      "timestamp": "2025-04-07T19:50:57.736486",
+      "user_input": "after two days I have some task as the following : going to the gym and Uni ",
+      "agent_response": {
+        "status": "processing",
+        "agent_type": "todo"
+      },
+      "metadata": {
+        "agent_type": "todo"
+      }
+    },
+    {
+      "id": "a8c0e6708dfdfccb6e64549a680f8a69",
+      "timestamp": "2025-04-07T19:51:09.164646",
+      "user_input": "after two days I have some task as the following : going to the gym and Uni ",
+      "agent_response": {
+        "status": "success",
+        "message": "Created todo 'Gym and Uni' with due date 2025-04-09T19:51:00.000+00:00",
+        "todo": {
+          "id": "1ce14f08-ff40-8192-b964-d144139d75c2",
+          "task_name": "Gym and Uni",
+          "due_date": "2025-04-09T19:51:00.000+00:00",
+          "status": "Not Started"
+        }
+      },
+      "metadata": {
+        "agent_type": "todo",
+        "result_status": "success"
+      }
+    }
+  ],
+  "patterns": {
+    "want": {
+      "frequency": 19,
+      "last_seen": "2025-04-07T12:49:12.533419",
+      "examples": [
+        {
+          "input": "I want to set my goals for tommorw it is about going to the gym",
+          "response_status": "processing",
+          "timestamp": "2025-04-07T12:49:12.533955"
+        },
+        {
+          "input": "I want to set my goals for tommorw it is about going to the gym",
+          "response_status": "success",
+          "timestamp": "2025-04-07T12:50:04.416332"
+        },
+        {
+          "input": "I want to set new goal about getting remote job",
+          "response_status": "processing",
+          "timestamp": "2025-04-07T13:12:31.384314"
+        },
+        {
+          "input": "I want to set new goal about getting remote job",
+          "response_status": "error",
+          "timestamp": "2025-04-07T13:12:31.385596"
+        },
+        {
+          "input": "I want to add new task to search on remot job tommorw",
+          "response_status": "processing",
+          "timestamp": "2025-04-07T13:13:02.796680"
+        }
+      ]
+    },
+    "goals": {
+      "frequency": 2,
+      "last_seen": "2025-04-07T12:49:12.533955",
+      "examples": [
+        {
+          "input": "I want to set my goals for tommorw it is about going to the gym",
+          "response_status": "processing",
+          "timestamp": "2025-04-07T12:49:12.533955"
+        },
+        {
+          "input": "I want to set my goals for tommorw it is about going to the gym",
+          "response_status": "success",
+          "timestamp": "2025-04-07T12:50:04.416332"
+        }
+      ]
+    },
+    "tommorw": {
+      "frequency": 7,
+      "last_seen": "2025-04-07T12:49:12.533955",
+      "examples": [
+        {
+          "input": "I want to set my goals for tommorw it is about going to the gym",
+          "response_status": "processing",
+          "timestamp": "2025-04-07T12:49:12.533955"
+        },
+        {
+          "input": "I want to set my goals for tommorw it is about going to the gym",
+          "response_status": "success",
+          "timestamp": "2025-04-07T12:50:04.416332"
+        },
+        {
+          "input": "I want to add new task to search on remot job tommorw",
+          "response_status": "processing",
+          "timestamp": "2025-04-07T13:13:02.796680"
+        },
+        {
+          "input": "add to do task for going to the gym tommorw",
+          "response_status": "processing",
+          "timestamp": "2025-04-07T15:07:47.624490"
+        },
+        {
+          "input": "add to do task for going to the gym tommorw",
+          "response_status": "error",
+          "timestamp": "2025-04-07T15:07:58.198480"
+        }
+      ]
+    },
+    "going": {
+      "frequency": 6,
+      "last_seen": "2025-04-07T12:49:12.533955",
+      "examples": [
+        {
+          "input": "I want to set my goals for tommorw it is about going to the gym",
+          "response_status": "processing",
+          "timestamp": "2025-04-07T12:49:12.533955"
+        },
+        {
+          "input": "I want to set my goals for tommorw it is about going to the gym",
+          "response_status": "success",
+          "timestamp": "2025-04-07T12:50:04.416332"
+        },
+        {
+          "input": "add to do task for going to the gym tommorw",
+          "response_status": "processing",
+          "timestamp": "2025-04-07T15:07:47.624490"
+        },
+        {
+          "input": "add to do task for going to the gym tommorw",
+          "response_status": "error",
+          "timestamp": "2025-04-07T15:07:58.198480"
+        },
+        {
+          "input": "after two days I have some task as the following : going to the gym and Uni ",
+          "response_status": "processing",
+          "timestamp": "2025-04-07T19:50:57.736486"
+        }
+      ]
+    },
+    "goal": {
+      "frequency": 4,
+      "last_seen": "2025-04-07T13:12:31.384314",
+      "examples": [
+        {
+          "input": "I want to set new goal about getting remote job",
+          "response_status": "processing",
+          "timestamp": "2025-04-07T13:12:31.384314"
+        },
+        {
+          "input": "I want to set new goal about getting remote job",
+          "response_status": "error",
+          "timestamp": "2025-04-07T13:12:31.385596"
+        },
+        {
+          "input": "I want to set new goal about getting remote job",
+          "response_status": "processing",
+          "timestamp": "2025-04-07T13:18:40.189791"
+        },
+        {
+          "input": "I want to set new goal about getting remote job",
+          "response_status": "error",
+          "timestamp": "2025-04-07T13:18:40.190791"
+        }
+      ]
+    },
+    "getting": {
+      "frequency": 4,
+      "last_seen": "2025-04-07T13:12:31.384314",
+      "examples": [
+        {
+          "input": "I want to set new goal about getting remote job",
+          "response_status": "processing",
+          "timestamp": "2025-04-07T13:12:31.384314"
+        },
+        {
+          "input": "I want to set new goal about getting remote job",
+          "response_status": "error",
+          "timestamp": "2025-04-07T13:12:31.385596"
+        },
+        {
+          "input": "I want to set new goal about getting remote job",
+          "response_status": "processing",
+          "timestamp": "2025-04-07T13:18:40.189791"
+        },
+        {
+          "input": "I want to set new goal about getting remote job",
+          "response_status": "error",
+          "timestamp": "2025-04-07T13:18:40.190791"
+        }
+      ]
+    },
+    "remote": {
+      "frequency": 6,
+      "last_seen": "2025-04-07T13:12:31.384314",
+      "examples": [
+        {
+          "input": "I want to set new goal about getting remote job",
+          "response_status": "processing",
+          "timestamp": "2025-04-07T13:12:31.384314"
+        },
+        {
+          "input": "I want to set new goal about getting remote job",
+          "response_status": "error",
+          "timestamp": "2025-04-07T13:12:31.385596"
+        },
+        {
+          "input": "I want to set new goal about getting remote job",
+          "response_status": "processing",
+          "timestamp": "2025-04-07T13:18:40.189791"
+        },
+        {
+          "input": "I want to set new goal about getting remote job",
+          "response_status": "error",
+          "timestamp": "2025-04-07T13:18:40.190791"
+        },
+        {
+          "input": "I want to set new task  about about searching on  remote job tommorow",
+          "response_status": "processing",
+          "timestamp": "2025-04-07T13:19:13.421372"
+        }
+      ]
+    },
+    "task": {
+      "frequency": 9,
+      "last_seen": "2025-04-07T13:13:02.796680",
+      "examples": [
+        {
+          "input": "I want to add new task to search on remot job tommorw",
+          "response_status": "processing",
+          "timestamp": "2025-04-07T13:13:02.796680"
+        },
+        {
+          "input": "I want to set new task  about about searching on  remote job tommorow",
+          "response_status": "processing",
+          "timestamp": "2025-04-07T13:19:13.421372"
+        },
+        {
+          "input": "I want to set new task  about about searching on  remote job tommorow",
+          "response_status": "success",
+          "timestamp": "2025-04-07T13:19:46.562675"
+        },
+        {
+          "input": "add new to do task about gym tomorw",
+          "response_status": "processing",
+          "timestamp": "2025-04-07T15:06:11.551737"
+        },
+        {
+          "input": "add new to do task about gym tomorw",
+          "response_status": "success",
+          "timestamp": "2025-04-07T15:06:20.939314"
+        }
+      ]
+    },
+    "search": {
+      "frequency": 1,
+      "last_seen": "2025-04-07T13:13:02.796680",
+      "examples": [
+        {
+          "input": "I want to add new task to search on remot job tommorw",
+          "response_status": "processing",
+          "timestamp": "2025-04-07T13:13:02.796680"
+        }
+      ]
+    },
+    "remot": {
+      "frequency": 1,
+      "last_seen": "2025-04-07T13:13:02.796680",
+      "examples": [
+        {
+          "input": "I want to add new task to search on remot job tommorw",
+          "response_status": "processing",
+          "timestamp": "2025-04-07T13:13:02.796680"
+        }
+      ]
+    },
+    "searching": {
+      "frequency": 2,
+      "last_seen": "2025-04-07T13:19:13.421372",
+      "examples": [
+        {
+          "input": "I want to set new task  about about searching on  remote job tommorow",
+          "response_status": "processing",
+          "timestamp": "2025-04-07T13:19:13.421372"
+        },
+        {
+          "input": "I want to set new task  about about searching on  remote job tommorow",
+          "response_status": "success",
+          "timestamp": "2025-04-07T13:19:46.562675"
+        }
+      ]
+    },
+    "tommorow": {
+      "frequency": 2,
+      "last_seen": "2025-04-07T13:19:13.421372",
+      "examples": [
+        {
+          "input": "I want to set new task  about about searching on  remote job tommorow",
+          "response_status": "processing",
+          "timestamp": "2025-04-07T13:19:13.421372"
+        },
+        {
+          "input": "I want to set new task  about about searching on  remote job tommorow",
+          "response_status": "success",
+          "timestamp": "2025-04-07T13:19:46.562675"
+        }
+      ]
+    },
+    "will": {
+      "frequency": 26,
+      "last_seen": "2025-04-07T14:24:51.358040",
+      "examples": [
+        {
+          "input": "I will have new event after three day about AI in tech world and it's something important",
+          "response_status": "processing",
+          "timestamp": "2025-04-07T14:24:51.358040"
+        },
+        {
+          "input": "I will have new event after three day about AI in tech world and it's something important",
+          "response_status": "error",
+          "timestamp": "2025-04-07T14:24:56.126364"
+        },
+        {
+          "input": "I will have new event after three day about AI in tech world and it's something important",
+          "response_status": "processing",
+          "timestamp": "2025-04-07T14:25:12.624255"
+        },
+        {
+          "input": "I will have new event after three day about AI in tech world and it's something important",
+          "response_status": "success",
+          "timestamp": "2025-04-07T14:25:20.206793"
+        },
+        {
+          "input": "I will have new event after two  day about AI in tech world and it's something important ",
+          "response_status": "processing",
+          "timestamp": "2025-04-07T15:03:44.871047"
+        }
+      ]
+    },
+    "have": {
+      "frequency": 28,
+      "last_seen": "2025-04-07T14:24:51.358040",
+      "examples": [
+        {
+          "input": "I will have new event after three day about AI in tech world and it's something important",
+          "response_status": "processing",
+          "timestamp": "2025-04-07T14:24:51.358040"
+        },
+        {
+          "input": "I will have new event after three day about AI in tech world and it's something important",
+          "response_status": "error",
+          "timestamp": "2025-04-07T14:24:56.126364"
+        },
+        {
+          "input": "I will have new event after three day about AI in tech world and it's something important",
+          "response_status": "processing",
+          "timestamp": "2025-04-07T14:25:12.624255"
+        },
+        {
+          "input": "I will have new event after three day about AI in tech world and it's something important",
+          "response_status": "success",
+          "timestamp": "2025-04-07T14:25:20.206793"
+        },
+        {
+          "input": "I will have new event after two  day about AI in tech world and it's something important ",
+          "response_status": "processing",
+          "timestamp": "2025-04-07T15:03:44.871047"
+        }
+      ]
+    },
+    "event": {
+      "frequency": 38,
+      "last_seen": "2025-04-07T14:24:51.358040",
+      "examples": [
+        {
+          "input": "I will have new event after three day about AI in tech world and it's something important",
+          "response_status": "processing",
+          "timestamp": "2025-04-07T14:24:51.358040"
+        },
+        {
+          "input": "I will have new event after three day about AI in tech world and it's something important",
+          "response_status": "error",
+          "timestamp": "2025-04-07T14:24:56.126364"
+        },
+        {
+          "input": "I will have new event after three day about AI in tech world and it's something important",
+          "response_status": "processing",
+          "timestamp": "2025-04-07T14:25:12.624255"
+        },
+        {
+          "input": "I will have new event after three day about AI in tech world and it's something important",
+          "response_status": "success",
+          "timestamp": "2025-04-07T14:25:20.206793"
+        },
+        {
+          "input": "I will have new event after two  day about AI in tech world and it's something important ",
+          "response_status": "processing",
+          "timestamp": "2025-04-07T15:03:44.871047"
+        }
+      ]
+    },
+    "after": {
+      "frequency": 32,
+      "last_seen": "2025-04-07T14:24:51.358040",
+      "examples": [
+        {
+          "input": "I will have new event after three day about AI in tech world and it's something important",
+          "response_status": "processing",
+          "timestamp": "2025-04-07T14:24:51.358040"
+        },
+        {
+          "input": "I will have new event after three day about AI in tech world and it's something important",
+          "response_status": "error",
+          "timestamp": "2025-04-07T14:24:56.126364"
+        },
+        {
+          "input": "I will have new event after three day about AI in tech world and it's something important",
+          "response_status": "processing",
+          "timestamp": "2025-04-07T14:25:12.624255"
+        },
+        {
+          "input": "I will have new event after three day about AI in tech world and it's something important",
+          "response_status": "success",
+          "timestamp": "2025-04-07T14:25:20.206793"
+        },
+        {
+          "input": "I will have new event after two  day about AI in tech world and it's something important ",
+          "response_status": "processing",
+          "timestamp": "2025-04-07T15:03:44.871047"
+        }
+      ]
+    },
+    "three": {
+      "frequency": 4,
+      "last_seen": "2025-04-07T14:24:51.358040",
+      "examples": [
+        {
+          "input": "I will have new event after three day about AI in tech world and it's something important",
+          "response_status": "processing",
+          "timestamp": "2025-04-07T14:24:51.358040"
+        },
+        {
+          "input": "I will have new event after three day about AI in tech world and it's something important",
+          "response_status": "error",
+          "timestamp": "2025-04-07T14:24:56.126364"
+        },
+        {
+          "input": "I will have new event after three day about AI in tech world and it's something important",
+          "response_status": "processing",
+          "timestamp": "2025-04-07T14:25:12.624255"
+        },
+        {
+          "input": "I will have new event after three day about AI in tech world and it's something important",
+          "response_status": "success",
+          "timestamp": "2025-04-07T14:25:20.206793"
+        }
+      ]
+    },
+    "tech": {
+      "frequency": 26,
+      "last_seen": "2025-04-07T14:24:51.358040",
+      "examples": [
+        {
+          "input": "I will have new event after three day about AI in tech world and it's something important",
+          "response_status": "processing",
+          "timestamp": "2025-04-07T14:24:51.358040"
+        },
+        {
+          "input": "I will have new event after three day about AI in tech world and it's something important",
+          "response_status": "error",
+          "timestamp": "2025-04-07T14:24:56.126364"
+        },
+        {
+          "input": "I will have new event after three day about AI in tech world and it's something important",
+          "response_status": "processing",
+          "timestamp": "2025-04-07T14:25:12.624255"
+        },
+        {
+          "input": "I will have new event after three day about AI in tech world and it's something important",
+          "response_status": "success",
+          "timestamp": "2025-04-07T14:25:20.206793"
+        },
+        {
+          "input": "I will have new event after two  day about AI in tech world and it's something important ",
+          "response_status": "processing",
+          "timestamp": "2025-04-07T15:03:44.871047"
+        }
+      ]
+    },
+    "world": {
+      "frequency": 26,
+      "last_seen": "2025-04-07T14:24:51.358040",
+      "examples": [
+        {
+          "input": "I will have new event after three day about AI in tech world and it's something important",
+          "response_status": "processing",
+          "timestamp": "2025-04-07T14:24:51.358040"
+        },
+        {
+          "input": "I will have new event after three day about AI in tech world and it's something important",
+          "response_status": "error",
+          "timestamp": "2025-04-07T14:24:56.126364"
+        },
+        {
+          "input": "I will have new event after three day about AI in tech world and it's something important",
+          "response_status": "processing",
+          "timestamp": "2025-04-07T14:25:12.624255"
+        },
+        {
+          "input": "I will have new event after three day about AI in tech world and it's something important",
+          "response_status": "success",
+          "timestamp": "2025-04-07T14:25:20.206793"
+        },
+        {
+          "input": "I will have new event after two  day about AI in tech world and it's something important ",
+          "response_status": "processing",
+          "timestamp": "2025-04-07T15:03:44.871047"
+        }
+      ]
+    },
+    "it's": {
+      "frequency": 22,
+      "last_seen": "2025-04-07T14:24:51.358040",
+      "examples": [
+        {
+          "input": "I will have new event after three day about AI in tech world and it's something important",
+          "response_status": "processing",
+          "timestamp": "2025-04-07T14:24:51.358040"
+        },
+        {
+          "input": "I will have new event after three day about AI in tech world and it's something important",
+          "response_status": "error",
+          "timestamp": "2025-04-07T14:24:56.126364"
+        },
+        {
+          "input": "I will have new event after three day about AI in tech world and it's something important",
+          "response_status": "processing",
+          "timestamp": "2025-04-07T14:25:12.624255"
+        },
+        {
+          "input": "I will have new event after three day about AI in tech world and it's something important",
+          "response_status": "success",
+          "timestamp": "2025-04-07T14:25:20.206793"
+        },
+        {
+          "input": "I will have new event after two  day about AI in tech world and it's something important ",
+          "response_status": "processing",
+          "timestamp": "2025-04-07T15:03:44.871047"
+        }
+      ]
+    },
+    "something": {
+      "frequency": 22,
+      "last_seen": "2025-04-07T14:24:51.358040",
+      "examples": [
+        {
+          "input": "I will have new event after three day about AI in tech world and it's something important",
+          "response_status": "processing",
+          "timestamp": "2025-04-07T14:24:51.358040"
+        },
+        {
+          "input": "I will have new event after three day about AI in tech world and it's something important",
+          "response_status": "error",
+          "timestamp": "2025-04-07T14:24:56.126364"
+        },
+        {
+          "input": "I will have new event after three day about AI in tech world and it's something important",
+          "response_status": "processing",
+          "timestamp": "2025-04-07T14:25:12.624255"
+        },
+        {
+          "input": "I will have new event after three day about AI in tech world and it's something important",
+          "response_status": "success",
+          "timestamp": "2025-04-07T14:25:20.206793"
+        },
+        {
+          "input": "I will have new event after two  day about AI in tech world and it's something important ",
+          "response_status": "processing",
+          "timestamp": "2025-04-07T15:03:44.871047"
+        }
+      ]
+    },
+    "important": {
+      "frequency": 22,
+      "last_seen": "2025-04-07T14:24:51.358040",
+      "examples": [
+        {
+          "input": "I will have new event after three day about AI in tech world and it's something important",
+          "response_status": "processing",
+          "timestamp": "2025-04-07T14:24:51.358040"
+        },
+        {
+          "input": "I will have new event after three day about AI in tech world and it's something important",
+          "response_status": "error",
+          "timestamp": "2025-04-07T14:24:56.126364"
+        },
+        {
+          "input": "I will have new event after three day about AI in tech world and it's something important",
+          "response_status": "processing",
+          "timestamp": "2025-04-07T14:25:12.624255"
+        },
+        {
+          "input": "I will have new event after three day about AI in tech world and it's something important",
+          "response_status": "success",
+          "timestamp": "2025-04-07T14:25:20.206793"
+        },
+        {
+          "input": "I will have new event after two  day about AI in tech world and it's something important ",
+          "response_status": "processing",
+          "timestamp": "2025-04-07T15:03:44.871047"
+        }
+      ]
+    },
+    "tomorw": {
+      "frequency": 2,
+      "last_seen": "2025-04-07T15:06:11.551737",
+      "examples": [
+        {
+          "input": "add new to do task about gym tomorw",
+          "response_status": "processing",
+          "timestamp": "2025-04-07T15:06:11.551737"
+        },
+        {
+          "input": "add new to do task about gym tomorw",
+          "response_status": "success",
+          "timestamp": "2025-04-07T15:06:20.939314"
+        }
+      ]
+    },
+    "goint": {
+      "frequency": 4,
+      "last_seen": "2025-04-07T15:08:21.001653",
+      "examples": [
+        {
+          "input": "add new to do about goint to uni after two day",
+          "response_status": "processing",
+          "timestamp": "2025-04-07T15:08:21.001653"
+        },
+        {
+          "input": "add new to do about goint to uni after two day",
+          "response_status": "error",
+          "timestamp": "2025-04-07T15:08:28.599066"
+        },
+        {
+          "input": "add new to do about goint to uni after two days",
+          "response_status": "processing",
+          "timestamp": "2025-04-07T15:08:41.910641"
+        },
+        {
+          "input": "add new to do about goint to uni after two days",
+          "response_status": "error",
+          "timestamp": "2025-04-07T15:08:58.318461"
+        }
+      ]
+    },
+    "days": {
+      "frequency": 4,
+      "last_seen": "2025-04-07T15:08:41.910641",
+      "examples": [
+        {
+          "input": "add new to do about goint to uni after two days",
+          "response_status": "processing",
+          "timestamp": "2025-04-07T15:08:41.910641"
+        },
+        {
+          "input": "add new to do about goint to uni after two days",
+          "response_status": "error",
+          "timestamp": "2025-04-07T15:08:58.318461"
+        },
+        {
+          "input": "after two days I have some task as the following : going to the gym and Uni ",
+          "response_status": "processing",
+          "timestamp": "2025-04-07T19:50:57.736486"
+        },
+        {
+          "input": "after two days I have some task as the following : going to the gym and Uni ",
+          "response_status": "success",
+          "timestamp": "2025-04-07T19:51:09.164646"
+        }
+      ]
+    },
+    "software": {
+      "frequency": 18,
+      "last_seen": "2025-04-07T15:10:51.999249",
+      "examples": [
+        {
+          "input": "I will have new event after two  day about software in tech world and it's something important ",
+          "response_status": "processing",
+          "timestamp": "2025-04-07T15:10:51.999249"
+        },
+        {
+          "input": "I will have new event after two  day about software in tech world and it's something important ",
+          "response_status": "success",
+          "timestamp": "2025-04-07T15:10:57.058543"
+        },
+        {
+          "input": "I want to give high priority to software event",
+          "response_status": "processing",
+          "timestamp": "2025-04-07T15:41:30.080455"
+        },
+        {
+          "input": "I want to give high priority to software event",
+          "response_status": "error",
+          "timestamp": "2025-04-07T15:41:36.520243"
+        },
+        {
+          "input": "I want to updata software event to make it high priority",
+          "response_status": "processing",
+          "timestamp": "2025-04-07T15:41:58.683415"
+        }
+      ]
+    },
+    "give": {
+      "frequency": 8,
+      "last_seen": "2025-04-07T15:41:30.080455",
+      "examples": [
+        {
+          "input": "I want to give high priority to software event",
+          "response_status": "processing",
+          "timestamp": "2025-04-07T15:41:30.080455"
+        },
+        {
+          "input": "I want to give high priority to software event",
+          "response_status": "error",
+          "timestamp": "2025-04-07T15:41:36.520243"
+        },
+        {
+          "input": "I want to give high priority to software event ",
+          "response_status": "processing",
+          "timestamp": "2025-04-07T15:43:11.047650"
+        },
+        {
+          "input": "I want to give high priority to software event ",
+          "response_status": "success",
+          "timestamp": "2025-04-07T15:43:18.562245"
+        },
+        {
+          "input": "I want to give high priority to software event ",
+          "response_status": "processing",
+          "timestamp": "2025-04-07T15:44:35.246657"
+        }
+      ]
+    },
+    "high": {
+      "frequency": 8,
+      "last_seen": "2025-04-07T15:41:30.080455",
+      "examples": [
+        {
+          "input": "I want to give high priority to software event",
+          "response_status": "processing",
+          "timestamp": "2025-04-07T15:41:30.080455"
+        },
+        {
+          "input": "I want to give high priority to software event",
+          "response_status": "error",
+          "timestamp": "2025-04-07T15:41:36.520243"
+        },
+        {
+          "input": "I want to updata software event to make it high priority",
+          "response_status": "processing",
+          "timestamp": "2025-04-07T15:41:58.683415"
+        },
+        {
+          "input": "I want to updata software event to make it high priority",
+          "response_status": "error",
+          "timestamp": "2025-04-07T15:42:04.810100"
+        },
+        {
+          "input": "I want to give high priority to software event ",
+          "response_status": "processing",
+          "timestamp": "2025-04-07T15:43:11.047650"
+        }
+      ]
+    },
+    "priority": {
+      "frequency": 12,
+      "last_seen": "2025-04-07T15:41:30.080455",
+      "examples": [
+        {
+          "input": "I want to give high priority to software event",
+          "response_status": "processing",
+          "timestamp": "2025-04-07T15:41:30.080455"
+        },
+        {
+          "input": "I want to give high priority to software event",
+          "response_status": "error",
+          "timestamp": "2025-04-07T15:41:36.520243"
+        },
+        {
+          "input": "I want to updata software event to make it high priority",
+          "response_status": "processing",
+          "timestamp": "2025-04-07T15:41:58.683415"
+        },
+        {
+          "input": "I want to updata software event to make it high priority",
+          "response_status": "error",
+          "timestamp": "2025-04-07T15:42:04.810100"
+        },
+        {
+          "input": "I want to give high priority to software event ",
+          "response_status": "processing",
+          "timestamp": "2025-04-07T15:43:11.047650"
+        }
+      ]
+    },
+    "updata": {
+      "frequency": 2,
+      "last_seen": "2025-04-07T15:41:58.683415",
+      "examples": [
+        {
+          "input": "I want to updata software event to make it high priority",
+          "response_status": "processing",
+          "timestamp": "2025-04-07T15:41:58.683415"
+        },
+        {
+          "input": "I want to updata software event to make it high priority",
+          "response_status": "error",
+          "timestamp": "2025-04-07T15:42:04.810100"
+        }
+      ]
+    },
+    "make": {
+      "frequency": 6,
+      "last_seen": "2025-04-07T15:41:58.683415",
+      "examples": [
+        {
+          "input": "I want to updata software event to make it high priority",
+          "response_status": "processing",
+          "timestamp": "2025-04-07T15:41:58.683415"
+        },
+        {
+          "input": "I want to updata software event to make it high priority",
+          "response_status": "error",
+          "timestamp": "2025-04-07T15:42:04.810100"
+        },
+        {
+          "input": "make it low priority",
+          "response_status": "processing",
+          "timestamp": "2025-04-07T15:43:30.218571"
+        },
+        {
+          "input": "make it low priority",
+          "response_status": "error",
+          "timestamp": "2025-04-07T15:43:40.941076"
+        },
+        {
+          "input": "make the end data of software event tommorw",
+          "response_status": "processing",
+          "timestamp": "2025-04-07T15:44:17.110284"
+        }
+      ]
+    },
+    "data": {
+      "frequency": 2,
+      "last_seen": "2025-04-07T15:44:17.110284",
+      "examples": [
+        {
+          "input": "make the end data of software event tommorw",
+          "response_status": "processing",
+          "timestamp": "2025-04-07T15:44:17.110284"
+        },
+        {
+          "input": "make the end data of software event tommorw",
+          "response_status": "error",
+          "timestamp": "2025-04-07T15:44:25.517820"
+        }
+      ]
+    },
+    "some": {
+      "frequency": 2,
+      "last_seen": "2025-04-07T19:50:57.736486",
+      "examples": [
+        {
+          "input": "after two days I have some task as the following : going to the gym and Uni ",
+          "response_status": "processing",
+          "timestamp": "2025-04-07T19:50:57.736486"
+        },
+        {
+          "input": "after two days I have some task as the following : going to the gym and Uni ",
+          "response_status": "success",
+          "timestamp": "2025-04-07T19:51:09.164646"
+        }
+      ]
+    },
+    "following": {
+      "frequency": 2,
+      "last_seen": "2025-04-07T19:50:57.736486",
+      "examples": [
+        {
+          "input": "after two days I have some task as the following : going to the gym and Uni ",
+          "response_status": "processing",
+          "timestamp": "2025-04-07T19:50:57.736486"
+        },
+        {
+          "input": "after two days I have some task as the following : going to the gym and Uni ",
+          "response_status": "success",
+          "timestamp": "2025-04-07T19:51:09.164646"
+        }
+      ]
+    }
+  },
+  "preferences": {}
+}
