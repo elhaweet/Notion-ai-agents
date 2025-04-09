@@ -100,7 +100,7 @@ utils.py              # Utility functions (e.g., date formatting)
 
 ## 📄 License & Author
 
-**Created by:** Amr El-Haweet  
+**Created by:** Amr Elhaweet
 📧 **Contact:** [ellhaweet@gmail.com](mailto:ellhaweet@gmail.com)  
 
 © 2025 Amr El-Haweet. All rights reserved.  
