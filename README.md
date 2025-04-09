@@ -30,7 +30,7 @@ This project implements two **AI-powered agents** that interact with Notion to m
 
 ### 1. Clone the Repository
 ```bash
-git clone https://github.com/yourusername/notion-agents.git
+git clone https://github.com/elhaweet/Notion-ai-agents.git
 cd notion-agents
 ```
 
